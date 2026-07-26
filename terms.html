@@ -1,252 +1,409 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ShieldX - Terms of Service</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shildex Bot - Terms of Service</title>
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800;900&family=Plus+Jakarta+Sans:wght@300;400;500;700&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-dark: #050811;
+            --card-bg: rgba(13, 22, 45, 0.55);
+            --blue-glow: #00f0ff;
+            --blue-accent: #0066ff;
+            --blue-deep: #002b80;
+            --text-main: #ffffff;
+            --text-sub: #94a3b8;
+            --border-line: rgba(0, 240, 255, 0.15);
+        }
 
-<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            scroll-behavior: smooth;
+        }
 
-<style>
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-}
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            min-height: 100vh;
+            overflow-x: hidden;
+            perspective: 1000px;
+        }
 
-body{
-    background:#05070d;
-    color:white;
-    font-family:Inter,sans-serif;
-}
+        /* Ambient Animated Background Grid */
+        .bg-canvas {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            z-index: -2;
+            background: 
+                radial-gradient(circle at 50% 10%, rgba(0, 102, 255, 0.15) 0%, transparent 60%),
+                radial-gradient(circle at 80% 80%, rgba(0, 240, 255, 0.08) 0%, transparent 50%),
+                var(--bg-dark);
+        }
 
-header{
-    text-align:center;
-    padding:70px 20px;
-    border-bottom:2px solid #1d4fff;
-    background:linear-gradient(180deg,#081221,#05070d);
-}
+        .grid-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(rgba(0, 240, 255, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0, 240, 255, 0.03) 1px, transparent 1px);
+            background-size: 50px 50px;
+            z-index: -1;
+            transform: perspective(500px) rotateX(60deg) translateY(-100px);
+            animation: gridMove 20s linear infinite;
+        }
 
-header h1{
-    font-family:Orbitron;
-    font-size:55px;
-    color:white;
-    text-shadow:0 0 15px #1d7bff;
-}
+        @keyframes gridMove {
+            0% { background-position: 0 0; }
+            100% { background-position: 0 50px; }
+        }
 
-header p{
-    color:#9ebcff;
-    margin-top:10px;
-}
+        /* Container Principal */
+        .wrapper {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 60px 20px;
+        }
 
-.container{
-    max-width:1100px;
-    margin:auto;
-    padding:50px 25px;
-}
+        /* Hero Header 3D */
+        .header-3d {
+            text-align: center;
+            margin-bottom: 60px;
+            transform-style: preserve-3d;
+            animation: floatHeader 4s ease-in-out infinite alternate;
+        }
 
-.card{
-    background:#0d1322;
-    border:1px solid #246BFF;
-    border-radius:18px;
-    margin-bottom:25px;
-    padding:30px;
-    box-shadow:0 0 25px rgba(37,111,255,.20);
-    transition:.3s;
-}
+        @keyframes floatHeader {
+            from { transform: translateY(0px) rotateX(0deg); }
+            to { transform: translateY(-10px) rotateX(4deg); }
+        }
 
-.card:hover{
-    transform:translateY(-5px);
-    box-shadow:0 0 40px rgba(37,111,255,.45);
-}
+        .logo-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            background: linear-gradient(135deg, rgba(0, 102, 255, 0.2), rgba(0, 240, 255, 0.05));
+            border: 1px solid var(--blue-glow);
+            padding: 8px 24px;
+            border-radius: 50px;
+            box-shadow: 0 0 20px rgba(0, 240, 255, 0.3);
+            margin-bottom: 20px;
+        }
 
-h2{
-    color:#4da3ff;
-    margin-bottom:15px;
-    font-family:Orbitron;
-}
+        .logo-badge i {
+            color: var(--blue-glow);
+            font-size: 1.2rem;
+            animation: pulseGlow 2s infinite;
+        }
 
-p,li{
-    color:#d9e7ff;
-    line-height:1.8;
-}
+        .logo-badge span {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 0.9rem;
+            letter-spacing: 2px;
+            color: var(--text-main);
+            text-transform: uppercase;
+        }
 
-ul{
-    padding-left:20px;
-}
+        .header-3d h1 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 3.5rem;
+            font-weight: 900;
+            letter-spacing: 2px;
+            background: linear-gradient(180deg, #ffffff 30%, var(--blue-glow) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 10px 30px rgba(0, 102, 255, 0.4);
+            margin-bottom: 15px;
+        }
 
-footer{
-    text-align:center;
-    padding:40px;
-    color:#7f95c8;
-    border-top:1px solid #163b8b;
-    margin-top:40px;
-}
-</style>
+        .header-3d p {
+            color: var(--text-sub);
+            font-size: 1.1rem;
+            max-width: 650px;
+            margin: 0 auto;
+        }
+
+        /* Cards Grid com Tilt 3D */
+        .terms-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+            gap: 30px;
+        }
+
+        .card-3d {
+            background: var(--card-bg);
+            border: 1px solid var(--border-line);
+            border-radius: 20px;
+            padding: 35px;
+            backdrop-filter: blur(12px);
+            transform-style: preserve-3d;
+            transition: transform 0.1s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card-3d::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background: linear-gradient(90deg, transparent, var(--blue-glow), transparent);
+            transform: translateX(-100%);
+            transition: transform 0.6s ease;
+        }
+
+        .card-3d:hover::before {
+            transform: translateX(100%);
+        }
+
+        .card-3d:hover {
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6), 0 0 30px rgba(0, 240, 255, 0.2);
+            border-color: var(--blue-glow);
+        }
+
+        .card-icon {
+            width: 60px;
+            height: 60px;
+            background: linear-gradient(135deg, var(--blue-accent), var(--blue-deep));
+            border-radius: 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            color: var(--text-main);
+            margin-bottom: 25px;
+            box-shadow: 0 8px 20px rgba(0, 102, 255, 0.4);
+            transform: translateZ(30px);
+        }
+
+        .card-3d h2 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.25rem;
+            color: var(--text-main);
+            margin-bottom: 15px;
+            transform: translateZ(25px);
+        }
+
+        .card-3d p, .card-3d ul {
+            color: var(--text-sub);
+            font-size: 0.95rem;
+            line-height: 1.6;
+            transform: translateZ(20px);
+        }
+
+        .card-3d ul {
+            list-style: none;
+            margin-top: 10px;
+        }
+
+        .card-3d ul li {
+            position: relative;
+            padding-left: 20px;
+            margin-bottom: 8px;
+        }
+
+        .card-3d ul li::before {
+            content: '>';
+            position: absolute;
+            left: 0;
+            color: var(--blue-glow);
+            font-weight: bold;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            margin-top: 80px;
+            padding-top: 30px;
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+            color: var(--text-sub);
+            font-size: 0.9rem;
+        }
+
+        footer strong {
+            color: var(--blue-glow);
+        }
+
+        /* Animations */
+        @keyframes pulseGlow {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.6; transform: scale(1.1); }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header-3d h1 { font-size: 2.2rem; }
+            .wrapper { padding: 30px 15px; }
+            .terms-grid { grid-template-columns: 1fr; }
+        }
+    </style>
 </head>
-
 <body>
 
-<header>
-
-<h1>ShieldX</h1>
-
-<p>Terms of Service</p>
-
-</header>
-
-<div class="container">
-
-<div class="card">
-<h2>1. Acceptance</h2>
-
-<p>
-By using ShieldX you agree to these Terms of Service.
-If you do not agree, please stop using the bot immediately.
-</p>
-
-</div>
-
-<div class="card">
-
-<h2>2. Purpose</h2>
-
-<p>ShieldX is designed to provide security and moderation for Discord servers.</p>
-
-<ul>
-<li>Anti Raid Protection</li>
-<li>Moderation System</li>
-<li>Logging</li>
-<li>Security Automation</li>
-<li>Server Management</li>
-</ul>
-
-</div>
-
-<div class="card">
-
-<h2>3. User Responsibilities</h2>
-
-<ul>
-
-<li>Follow Discord Terms of Service.</li>
-
-<li>Do not abuse or exploit the bot.</li>
-
-<li>Do not use ShieldX for illegal activities.</li>
-
-<li>Respect other users and communities.</li>
-
-</ul>
-
-</div>
-
-<div class="card">
-
-<h2>4. Data Collection</h2>
-
-<p>
-
-ShieldX may store configuration data such as:
-
-</p>
-
-<ul>
-
-<li>Server IDs</li>
-
-<li>Role IDs</li>
-
-<li>Channel IDs</li>
-
-<li>Bot configuration</li>
-
-<li>Moderation logs</li>
-
-</ul>
-
-</div>
-
-<div class="card">
-
-<h2>5. Availability</h2>
-
-<p>
-
-We aim to keep ShieldX online 24/7.
-However, downtime may occur due to maintenance or updates.
-
-</p>
-
-</div>
-
-<div class="card">
-
-<h2>6. Prohibited Use</h2>
-
-<ul>
-
-<li>Spam</li>
-
-<li>Raids</li>
-
-<li>Harassment</li>
-
-<li>Illegal activities</li>
-
-<li>Attempts to bypass Discord security</li>
-
-</ul>
-
-</div>
-
-<div class="card">
-
-<h2>7. Limitation of Liability</h2>
-
-<p>
-
-ShieldX is provided "AS IS" without warranties.
-The developers are not responsible for damages, data loss, or service interruptions.
-
-</p>
-
-</div>
-
-<div class="card">
-
-<h2>8. Changes</h2>
-
-<p>
-
-These Terms may change at any time.
-Continued use of ShieldX means you accept future updates.
-
-</p>
-
-</div>
-
-<div class="card">
-
-<h2>9. Contact</h2>
-
-<p>
-
-Need help?
-
-Contact the official ShieldX Support Server.
-
-</p>
-
-</div>
-
-</div>
-
-<footer>
-
-© 2026 ShieldX • All Rights Reserved
-
-</footer>
-
+    <div class="bg-canvas"></div>
+    <div class="grid-overlay"></div>
+
+    <div class="wrapper">
+        <!-- Header -->
+        <header class="header-3d">
+            <div class="logo-badge">
+                <i class="fa-solid fa-shield-halved"></i>
+                <span>Shildex System</span>
+            </div>
+            <h1>Terms of Service</h1>
+            <p>Comprehensive guidelines and terms governing the usage, safety protocols, and operations of Shildex Bot.</p>
+        </header>
+
+        <!-- Main Content Cards Grid -->
+        <div class="terms-grid">
+            
+            <!-- Card 1 -->
+            <div class="card-3d" data-tilt>
+                <div class="card-icon">
+                    <i class="fa-solid fa-handshake"></i>
+                </div>
+                <h2>1. Acceptance of Terms</h2>
+                <p>By inviting <strong>Shildex</strong> to your server, accessing its API, or purchasing premium tiers, you automatically agree to be bound by these Terms of Service and Discord's Developer Terms.</p>
+            </div>
+
+            <!-- Card 2 -->
+            <div class="card-3d" data-tilt>
+                <div class="card-icon">
+                    <i class="fa-solid fa-user-shield"></i>
+                </div>
+                <h2>2. License & Access Rights</h2>
+                <p>Shildex grants server administrators a non-exclusive, non-transferable, revocable license to utilize its security, moderation, and automated tools within authorized servers.</p>
+            </div>
+
+            <!-- Card 3 -->
+            <div class="card-3d" data-tilt>
+                <div class="card-icon">
+                    <i class="fa-solid fa-ban"></i>
+                </div>
+                <h2>3. Prohibited Misuse</h2>
+                <p>Users must strictly avoid abusing the bot infrastructure, including:</p>
+                <ul>
+                    <li>Spamming bot triggers or ratelimit exploitation.</li>
+                    <li>Attempting unauthorized API calls or exploits.</li>
+                    <li>Utilizing Shildex for malicious raids or TOS breaches.</li>
+                </ul>
+            </div>
+
+            <!-- Card 4 -->
+            <div class="card-3d" data-tilt>
+                <div class="card-icon">
+                    <i class="fa-solid fa-database"></i>
+                </div>
+                <h2>4. Data Handling & Security</h2>
+                <p>Shildex stores essential operational data (Server IDs, User IDs, infraction logs). All stored data is encrypted and never shared or sold to third-party entities.</p>
+            </div>
+
+            <!-- Card 5 -->
+            <div class="card-3d" data-tilt>
+                <div class="card-icon">
+                    <i class="fa-solid fa-credit-card"></i>
+                </div>
+                <h2>5. Subscriptions & Payments</h2>
+                <p>Premium features are billed as recurring or one-time fees. Transactions processed are strictly tied to the designated Discord account or Guild ID provided during checkout.</p>
+            </div>
+
+            <!-- Card 6 -->
+            <div class="card-3d" data-tilt>
+                <div class="card-icon">
+                    <i class="fa-solid fa-rotate-left"></i>
+                </div>
+                <h2>6. Refund Policy</h2>
+                <p>Due to the immediate digital fulfillment of bot features, all sales are final. Refunds are only granted under major service outages exceeding 72 consecutive hours.</p>
+            </div>
+
+            <!-- Card 7 -->
+            <div class="card-3d" data-tilt>
+                <div class="card-icon">
+                    <i class="fa-solid fa-server"></i>
+                </div>
+                <h2>7. Service Availability</h2>
+                <p>While we target 99.9% operational uptime, Shildex is provided "as is". Scheduled maintenance or unexpected API downtime may occur without prior announcement.</p>
+            </div>
+
+            <!-- Card 8 -->
+            <div class="card-3d" data-tilt>
+                <div class="card-icon">
+                    <i class="fa-solid fa-gauge-high"></i>
+                </div>
+                <h2>8. Rate Limits & Quotas</h2>
+                <p>To preserve core system integrity, automatic rate limits apply to all commands. Exceeding limits repeatedly may result in automated temporary blacklisting.</p>
+            </div>
+
+            <!-- Card 9 -->
+            <div class="card-3d" data-tilt>
+                <div class="card-icon">
+                    <i class="fa-solid fa-triangle-exclamation"></i>
+                </div>
+                <h2>9. Limitation of Liability</h2>
+                <p>Shildex staff shall not be held liable for server damages, loss of server data, or misconfigurations executed by server managers using the bot commands.</p>
+            </div>
+
+            <!-- Card 10 -->
+            <div class="card-3d" data-tilt>
+                <div class="card-icon">
+                    <i class="fa-solid fa-gavel"></i>
+                </div>
+                <h2>10. Account Blacklisting</h2>
+                <p>We reserve the absolute right to ban any user or guild from utilizing Shildex without prior notice if fraudulent activity or malicious intent is identified.</p>
+            </div>
+
+            <!-- Card 11 -->
+            <div class="card-3d" data-tilt>
+                <div class="card-icon">
+                    <i class="fa-solid fa-headset"></i>
+                </div>
+                <h2>11. Support & Complaints</h2>
+                <p>Official technical assistance is exclusively handled via our Support Discord Guild. Users must follow community rules when submitting help tickets.</p>
+            </div>
+
+            <!-- Card 12 -->
+            <div class="card-3d" data-tilt>
+                <div class="card-icon">
+                    <i class="fa-solid fa-pen-to-square"></i>
+                </div>
+                <h2>12. Terms Revisions</h2>
+                <p>These terms may be revised at any time. Continued usage of Shildex after updates constitutes full agreement to the modified Terms of Service.</p>
+            </div>
+
+        </div>
+
+        <!-- Footer -->
+        <footer>
+            <p>Last Updated: July 2026 | &copy; <strong>Shildex Bot</strong>. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <!-- Vanilla Tilt JS for 3D Effect -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.8.0/vanilla-tilt.min.js"></script>
+    <script>
+        // Initialize 3D Tilt effect on elements
+        VanillaTilt.init(document.querySelectorAll("[data-tilt]"), {
+            max: 12,
+            speed: 400,
+            glare: true,
+            "max-glare": 0.25,
+            gyroscope: true
+        });
+    </script>
 </body>
 </html>
