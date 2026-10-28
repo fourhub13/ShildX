@@ -1,0 +1,5 @@
+action (str) = 'request_messages'
+playerKey (str) = 'local-player-key'
+lastSentId (int) = 700169093
+worldId (int) = 1
+fromTime (long) = 0

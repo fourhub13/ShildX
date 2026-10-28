@@ -1,0 +1,4 @@
+action (str) = 'get_public_messages'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+lastId (long) = -1

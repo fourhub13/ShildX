@@ -1,0 +1,3 @@
+action (str) = 'retrieve_for_editing'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1

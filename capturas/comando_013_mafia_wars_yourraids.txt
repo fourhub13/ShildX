@@ -1,0 +1,4 @@
+action (str) = 'mafia_wars_yourraids'
+playerKey (str) = 'local-player-key'
+warId (int) = -1
+worldId (int) = 1

@@ -1,0 +1,4 @@
+action (str) = 'retrieve_city_layout'
+playerKey (str) = 'local-player-key'
+index (int) = 0
+worldId (int) = 1

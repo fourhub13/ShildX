@@ -1,0 +1,3 @@
+action (str) = 'battle_log'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
