@@ -1,45 +1,182 @@
 ============================================================
-#1  12:51:59
-POST /game.aspx?r=0.5025852&lb_cmd=get&deviceGuid=037533a9-73d2-44db-a3c6-db0d5338a39e&platform=Android&gameVersion=81
+#7  12:56:47
+POST /game.aspx?r=0.2809719
+>>> COMANDO #3: load_intro
+action (str) = 'load_intro'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+============================================================
+#1  13:02:40
+POST /game.aspx?r=0.6132105&lb_cmd=get&deviceGuid=037533a9-73d2-44db-a3c6-db0d5338a39e&platform=Android&gameVersion=81
 >>> endereco: 192.168.100.6
 ============================================================
-#2  12:51:59
-POST /game.aspx?r=0.8583213
->>> sessao nova 29c5785ab4754b33a6d39801b89fa6db; enviei segredo RC4 + chave publica (cifrados)
+#2  13:02:40
+POST /game.aspx?r=0.8073311
+>>> sessao nova bad910559fd845ca83f32148fc9a254a; enviei segredo RC4 + chave publica (cifrados)
 ============================================================
-#3  12:51:59
-POST /game.aspx?r=0.9960462
+#3  13:02:41
+POST /game.aspx?r=0.9162996
 >>> segredo RC4 do jogo recebido; conexao segura estabelecida
 ============================================================
-#4  12:51:59
-POST /game.aspx?r=0.5184475
->>> COMANDO #0: new_game
-action (str) = 'new_game'
-deviceId (str) = '3f70a04af88f0139799f0489215c057e_c2f00b2b'
-deviceModel (str) = 'samsung SM-G988N'
-IDFA (str) = '4477690e-6c52-418c-9d63-a8a53450bae6'
-platform (str) = 'Android'
-playerKey (str) = ''
-worldId (int) = -1
-============================================================
-#5  12:51:59
-POST /game.aspx?r=0.8694237
->>> COMANDO #1: server_status
+#4  13:02:41
+POST /game.aspx?r=0.8944235
+>>> COMANDO #0: server_status
 action (str) = 'server_status'
-playerKey (str) = ''
-worldId (int) = -1
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
 ============================================================
-#6  12:51:59
-POST /game.aspx?r=0.9990023
->>> COMANDO #2: timecheck
+#5  13:02:41
+POST /game.aspx?r=0.5299314
+>>> COMANDO #1: timecheck
 action (str) = 'timecheck'
 deviceId (str) = '3f70a04af88f0139799f0489215c057e_c2f00b2b'
 deviceModel (str) = 'samsung SM-G988N'
 deviceLanguage (str) = 'Portuguese'
 IDFA (str) = '4477690e-6c52-418c-9d63-a8a53450bae6'
 platform (str) = 'Android'
-playerKey (str) = ''
+playerKey (str) = 'local-player-key'
 bundleVersion (int) = 330
-worldId (int) = -1
 bundleId (int) = 2
-localTime (long) = 639287886672406700
+worldId (int) = 1
+localTime (long) = 639287893086636100
+============================================================
+#6  13:02:42
+POST /game.aspx?r=0.4545197
+>>> COMANDO #2: retrieve_for_editing
+action (str) = 'retrieve_for_editing'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+============================================================
+#7  13:02:42
+POST /game.aspx?r=0.9452995
+>>> COMANDO #3: request_messages
+action (str) = 'request_messages'
+playerKey (str) = 'local-player-key'
+lastSentId (int) = 1196040905
+worldId (int) = 1
+fromTime (long) = 0
+============================================================
+#8  13:02:42
+POST /game.aspx?r=0.2617878
+>>> COMANDO #4: get_public_messages
+action (str) = 'get_public_messages'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+lastId (long) = -1
+============================================================
+#9  13:02:53
+POST /game.aspx?r=0.1978038
+>>> COMANDO #5: battle_log
+action (str) = 'battle_log'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+============================================================
+#10  13:03:02
+POST /game.aspx?r=0.1071614
+>>> COMANDO #6: get_public_messages
+action (str) = 'get_public_messages'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+lastId (long) = -1
+============================================================
+#11  13:03:23
+POST /game.aspx?r=0.9923779
+>>> COMANDO #7: get_public_messages
+action (str) = 'get_public_messages'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+lastId (long) = -1
+============================================================
+#12  13:03:25
+POST /game.aspx?r=0.9178494
+>>> COMANDO #8: mafia_wars_overview
+action (str) = 'mafia_wars_overview'
+playerKey (str) = 'local-player-key'
+warId (int) = -1
+worldId (int) = 1
+============================================================
+#13  13:03:26
+POST /game.aspx?r=0.7913898
+>>> COMANDO #9: mafia_wars_yourmafia
+action (str) = 'mafia_wars_yourmafia'
+playerKey (str) = 'local-player-key'
+warId (int) = -1
+worldId (int) = 1
+============================================================
+#14  13:03:28
+POST /game.aspx?r=0.3134309
+>>> COMANDO #10: mafia_wars_yourleague
+action (str) = 'mafia_wars_yourleague'
+playerKey (str) = 'local-player-key'
+warId (int) = -1
+worldId (int) = 1
+============================================================
+#15  13:03:43
+POST /game.aspx?r=0.2626761
+>>> COMANDO #11: get_public_messages
+action (str) = 'get_public_messages'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+lastId (long) = -1
+============================================================
+#16  13:03:52
+POST /game.aspx?r=0.7175981
+>>> COMANDO #12: top_players_1
+action (str) = 'top_players_1'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+============================================================
+#17  13:04:02
+POST /game.aspx?r=0.8481566
+>>> COMANDO #13: edit_action
+action (str) = 'edit_action'
+worldId (str) = '1'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+data (dados):
+  0 (dados):
+    id (str) = 'discord_joined'
+============================================================
+#18  13:04:02
+POST /game.aspx?r=0.400812
+>>> COMANDO #14: user_offline
+action (str) = 'user_offline'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+============================================================
+#19  13:04:54
+POST /game.aspx?r=0.0231514
+>>> COMANDO #15: get_public_messages
+action (str) = 'get_public_messages'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+lastId (long) = -1
+============================================================
+#20  13:05:05
+POST /game.aspx?r=0.7204327
+>>> COMANDO #16: battle_log
+action (str) = 'battle_log'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+============================================================
+#21  13:05:12
+POST /game.aspx?r=0.8669449
+>>> COMANDO #17: top_players_1
+action (str) = 'top_players_1'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+============================================================
+#22  13:05:14
+POST /game.aspx?r=0.1490386
+>>> COMANDO #18: get_public_messages
+action (str) = 'get_public_messages'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+lastId (long) = -1
+============================================================
+#23  13:05:22
+POST /game.aspx?r=0.7797135
+>>> COMANDO #19: user_offline
+action (str) = 'user_offline'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
