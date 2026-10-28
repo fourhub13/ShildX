@@ -1,0 +1,6263 @@
+ 
+  
+   
+    
+  #AAAAAAFF
+  #AAAAAAFF[#PUSH
+  +
+  --\n
+  V=
+  dateTimeStarted=
+  houseId=
+  level=
+  objectId=
+  objectTypeId=
+  rows[0]=
+ #
+ %ss
+ (
+ (3D)
+ (full)
+ (onBecomeVisibleAnim)
+ (w)
+ )
+ + dEItem.itemTypeId + 
+ + message.GetLong(
+ + message.GetString(
+ + objectTypeId + 
+ + type.FullName, 
+ - 
+ - attempting to load local version instead
+ / 
+ // reference-tracked 
+ 0
+ 0s
+ :
+ = 
+ ====
+ B
+ C
+ G
+ GameObject.parent.name=
+ PlayerName=
+ Total runes: 
+ W:
+ Y:
+ Z:
+ [default = 
+ [default = \"
+ [default = false]
+ [default = true]
+ [packed=true]
+ \t\n\r
+ \t\n\r{}[],:\"
+ ]
+ ago
+ already added!
+ already exists in target world
+ and 
+ and length=
+ are different!
+ as Unit
+ at position 
+ attackerFriendly=
+ attackerIsFriendly=
+ attackerLevel=
+ attackerMaxHitpoints=
+ attackerSpreadsheetDamage_Max=
+ attackerSpreadsheetDamage_Min=
+ available=
+ but received 
+ callbacks on 
+ cancelDate=
+ cannot be assigned from 
+ client=
+ consumable=
+ controlId=
+ cumulativeTranslation=
+ currency0Available=
+ currency0Left=
+ currency0Taken=
+ currency1Available=
+ currency1Left=
+ currency1Taken=
+ currency=
+ current=
+ currentPurchaseUpdatesResponse=
+ data has been written
+ description=
+ does not inherit from UIControlHandler!
+ doesn't exist in source world
+ doesn't have a default contructor
+ due to passButDontGiveGold status
+ entry of 
+ enum is mapped to the wire-value 
+ error=
+ exceededMovementTolerance=
+ field=
+ forged by combining 
+ from path '
+ gameStateId=
+ go.GetComponent<MeshRenderer>()=
+ go=
+ has inconsistent frame counts.
+ has non-round grid area
+ has null info
+ header until the 
+ housePosition=
+ hpf=
+ in atlas 
+ in atlas: 
+ in string
+ instead of 
+ inventoryId=
+ is a 3D group, however no positional info was supplied.
+ is loaded but its texture is null. Has it been assigned?
+ is not a 2D texture?
+ is not a valid sub-type of 
+ items = 1;
+ lastDelta=
+ level 
+ level(s)): 
+ level: 
+ level=
+ levels! The wrong data will be obtained.
+ localTime=
+ marketPlace=
+ maxDamageObserved=
+ message=
+ minDamageObserved=
+ nastities
+ new=
+ on: 
+ or 
+ or amazonUserId=
+ orderId=
+ other.attackerMaxHitpoints=
+ other.attackerSpreadsheetDamage_Max=
+ other.attackerSpreadsheetDamage_Min=
+ other.maxDamageObserved=
+ other.targetMaxHitpoints=
+ params=
+ parent.id=
+ present, can't use AGSClient
+ present, can't use AGSLeaderboardsClient
+ present, can't use AGSPlayerClient
+ present, can't use AGSWhispersyncClient
+ previousPos=
+ price=
+ productId=
+ property=
+ purchaseDate=
+ receiptId=
+ returning defaultValue=
+ reward=
+ seconds
+ server=
+ setting level to 1
+ spritePrefix=
+ state=
+ subtitle=
+ target=
+ targetLevel=
+ targetMaxHitpoints=
+ targetObjectTypeId=
+ textureName=
+ title=
+ to DEObjectData. Data=
+ to clipboard.
+ to next level
+ type=
+ unable to deserialize!
+ update
+ userId=
+ value = 1;
+ was not found in atlas 
+ while the latest available version is R
+ x
+ x 
+ {
+!
+! GameObject=
+!sprite.relativeCentre
+#
+##1
+##2
+##3
+##4
+#00000000....
+#0099FFFF
+#00FFFFFF
+#55FF55FF
+#55FF55FF+
+#9DFCFCFF
+#AAAAAAFF
+#AAAAFFFF
+#DEE5C4FF
+#FBAE17FF
+#FF0000FFOperation Failed
+#FF0000FFOperation Successful
+#FF0000FFOperation Successful - Reload town to see results!
+#FFD700FF
+#FFFF00FF
+#FFFF00FF + 
+#FFFF00FF+
+#FFFFFFFF
+#FFFFFFFF\n
+#POP
+#POP]
+#PUSH
+#WFIRST
+$
+$$
+%
+%, 
+%, 0%
+%, 100%
+%,0
+%,100%
+%20
+%2B
+%h
+%h, 
+%s
+%ss
+%ss,
+%ss,0
+%ss,9%ss
+%sw,0
+%w
+&
+&body=
+&gameVersion=
+&lb_cmd=get&deviceGuid=
+&platform=
+&r=
+'
+' (parent vehicle is 
+' already in object data. It will be replaced.
+' already registered
+' as 
+' from house '
+' from spreadsheet 
+' is null
+' must be created with only 1 texture, not 
+' was already registered and will be replaced.
+', but its type is 
+', using default
+'. gameStateId=
+(
+(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+(a == null && b != null) || (a != null && b == null)
+(booting)
+(invalid)
+(no name set)
+(null)
+(null)\n
+(pro) This is a test
+(unable to get player name and id)
+(unknown)
+)
+) 
+) follows:\n
+) is NULL
+), 
+):\n
+)\n
+*
+* DEAD *
+* DONE *
+* ERROR *
+* No referral code used *
+* prizes not yet defined *
+* unable to create item *
+*Approving Player Name*
+*debug*
+*iap_error*
+*invalid*
+*invalid_system_message*
++
+,
+, 
+, DE.serverNow.Add(zero), 
+, Gold, Default, 
+, Uri link = null, string linkName = 
+, Uri picture = null, string mediaSource = 
+, at, 
+, but found 
+, inventory.CountItemsOfType<DEItem_Key_Iron>(), 
+, inventory.CountItemsOfType<DEItem_Key_Silver>(), 
+, nextGoldenKey, 
+, nextIronKey, 
+, nextSilverKey, 
+, string contentDescription = 
+, string linkCaption = 
+, string linkDescription = 
+, string playerId = 
+, string title = 
+, typeof(T), 
+,0
+,9.5%
+,Assembly-CSharp
+,Assembly-CSharp-firstpass
+-
+-->
+--\r\n
+-0.5%ss,0.5%ss
+-1%ss, -1%ss
+-1%ss, -16.5%ss
+-1%ss,0
+-1%ss,1%ss
+-1%ss,11%ss
+-1,1
+-1.25%ss, 1.25%ss
+-1.5%ss, -18.5%ss
+-10%h,0
+-10%ss,-5%ss
+-10.0%ss,2.5%ss
+-12.5%,-13.5%
+-12.5%ss, 5.5%ss
+-15%ss
+-2%ss, 0
+-2.5%,0
+-25%ss
+-3%,0
+-3%ss,-1%ss
+-3%ss,-10%ss
+-4.5%ss, 5.5%ss
+-5%,-10%
+-5%ss,
+-50%,-100%
+-50%ss,-50%sh
+.
+. Correct syntax for the % character is %%.
+. Cost=
+. Does it have a default constructor?
+. Let's update to the latest version!
+. Message=
+. Minimum is 0.
+. Requisites are: 
+. Returning default value
+...
+../../../gc.unity/Assets/Resources/Config/StressTestData.txt
+.0
+.ImmutableHashSet
+.asset
+.jpg
+.png
+.tga
+.txt
+/
+// this enumeration will be passed as a raw value
+// this is a composite/flags enumeration
+/3D Objects
+/3D Objects/background_geom
+/3D Objects/repeating_grass_geom
+/Game
+/Game/GameCamera
+/Resources/
+/UI
+/channel.html
+/game.aspx?r=
+/screen
+0
+0 C
+0 G
+0%,10%
+0, 
+0,    -5%ss
+0, -
+0, -14%ss
+0, 2%ss
+0, 8%ss
+0,-15%
+0,-15%ss
+0,-17.25%ss
+0,-18%ss
+0,-2%ss
+0,-30
+0,-4%ss
+0,-6%ss
+0,-8%ss
+0,0
+0,0%
+0,0%ss
+0,0,0,
+0,0,0,255
+0,1%ss
+0,10%
+0,12.5%ss
+0,17%ss
+0,17.5%ss
+0,2%ss
+0,3%ss
+0,5%ss
+0,6%
+0.0.0.0
+0.00
+0.000, 0.000, 0.400, 0.900
+0.200, 0.900, 0.990, 0.995
+0.25%,0%
+0.5%ss
+0.900, 0.970, 0.995, 0.999
+00
+00:
+00:00:00
+0123456789+-.eE
+0123456789,.
+0xff: 
+1
+1 G
+1 through 4:
+1 through 8:
+1%ss
+1, 5%h
+1,1
+1.  
+1.0%ss
+10%,-28%
+10%ss
+10%ss,-5%ss
+10%ss,100%
+100%
+100%,
+100%, 
+100%, 10%
+100%, 15%ss
+100%, 17.5%ss
+100%, 18%ss
+100%, 20%ss
+100%, 25%ss
+100%,1%
+100%,100%
+100%,100%sh
+100%,12.5%ss
+100%,130%
+100%,20%
+100%,50%
+100%h,130%h
+100%ss
+100%ss,17.5%ss
+100%sw
+100%sw,
+100%w,
+100,1
+105%,105%
+117.5%sw,117.5%sh
+12%ss,12%ss
+12%ss,8%ss
+120%ss,11.0%ss
+125,125
+13%ss
+130,130
+15%ss,10%ss
+15%ss,100%
+1x
+2%ss
+2%ss, -17.5%ss
+2%ss, -2%ss
+2.  
+2.0.0.668
+2.00:00:00
+2.55%ss
+2.9%ss
+20%sl, 1.2%sl
+20%ss, 10%ss
+20%ss, 100%
+20%ss, 6%ss
+20%ss,100%
+20%ss,15%ss
+20%ss,20%ss
+20%ss,26%ss
+200%sw,100%sh
+200,200
+208%h,0
+22%ss,-5%ss
+22%ss,100%
+224e5fc5-09f7-4fe3-a0a3-cf72b9f3593e
+25%ss
+25%ss, 10%ss
+25%ss,100%
+255
+255,10,10,255
+255,255,255,255
+26%ss, 7%ss
+26%ss, 8%ss
+26.5%,-8%
+26.5%,8%
+3%ss,17%ss
+3.  
+3.0%ss
+3.15%ss
+3.25%ss
+3.25%ss,3.25%ss
+3.5%ss
+3.6%ss
+3.75%ss
+30
+30%ss,10%ss
+328670025616
+330
+36%ss,10%ss
+365
+38%ss
+3D Objects
+3D Objects/decals
+4%ss
+4.0%ss
+4.00%ss
+4.25%ss
+4.5%ss
+40,255,40,255
+45%ss,100%
+45, 45
+5%ss
+5%ss,
+50
+50%
+50%,-20.0%ss
+50%,1.5%ss
+50%,50%
+60%
+60%ss, 9%ss
+65%
+65%h
+7
+7%sl, 1.8%sl
+7%ss
+7%ss,7%ss
+7%ss,9.1%ss
+7.1.0
+70%
+70.769%h, 92.00%h
+75%,75%
+767859825512
+8%ss
+80%
+80%,40%
+90%
+90%, 90%
+93%ss
+93.5%
+:
+: 
+: #00FFFFFF
+:0
+;
+; // schema for protobuf-net's handling of core .NET types
+; please see http://stackoverflow.com/q/14436606/
+<!--
+</controls></ui>
+<add_to id=\"
+<null>
+<ui><controls>
+=
+=(null)\n
+== FGCProfiler information ==\n
+==== Reward given. serverTime=
+=> this is a live replay!
+> count=
+?
+?rid=
+?subject=
+?targetVersion=
+@
+A
+A color with id '
+A complete JSON symbol has already been written
+A control with id '
+A deferred key does not have a value yet
+A factory-method must be static
+A font with id '
+A training camp is not selected.
+A type can only participate in one inheritance hierarchy
+ABCD ABCD ABCD
+AMZ_
+Aborting: window already shown!
+Acquire Missile
+ActivateApp
+ActivateSpecialAbility - !IsSpecialAbilityAvailable() (
+Add
+AddItemQuantity - quantity <= 0
+AddRange
+Adding GameCircleManager GameObject
+Adjusting currency! Old 
+Advertising ID is blocked on this device!
+All slots are used!
+All units down from van
+Already created
+Already showing()?
+Amazon
+Amazon purchase message.  store=
+AmazonGameCircle
+AmazonIapV2Bridge
+Amount of gold given to players who use a referral code
+An atlas with id '
+An error happened parsing xml
+An update is available!
+Analitics Event - 
+Analytics.Init was not called!
+Analytics: Objective claimed: 
+Analytics: Objective completed: 
+Android Amazon In-App Purchase instantiated
+Android Google In-App Purchase instantiated
+AndroidInAppPuchaseManager2 Already initialised.
+AnimClips/RewardSafeClicked
+AnimClips/RewardSafeOpen
+AnimClips/RewardSafePreOpen
+AnimClips/ScaleInWindows
+AnimClips/ScaleOutWindows
+App Name
+AppEvents
+AppInvite
+AppRequest
+Arabic
+AsReference
+AsReference cannot be used with value-types
+AsReferenceDefault
+AsReferenceHasValue
+Assertion error
+Assets/Resources/
+Assign to Group\n(force)
+Assigning a temporary id to structure 
+Async call threw exception: 
+Atlas
+Atlas is not registered: 
+Atlases/
+Atlases/SplashScreen_HD
+Atlases/SplashScreen_MiddleEastern
+Atlases/UI2AtlasMaterial
+Atlases/buildings0AdditiveMaterial
+Atlases/buildings0Atlas
+Atlases/buildings0Material
+Atlases/buildings2Atlas
+Atlases/buildings2Material
+Atlases/game_logo
+Atlases/game_logo_maysalward
+Atlases/mafiaWarsAtlas
+Atlases/unitConcepts1Material
+Atlases/unitConceptsMaterial
+Atlases/units1Atlas
+Atlases/units1Material
+Attempt to call Canvas interface on non canvas platform
+Attempt to call Mobile interface on non mobile platform
+Attempted to add a null control!
+Attempting to process failed messages. Count=
+Audio
+Audio 
+Audio Debug 
+Audio System Info\n\n
+Audio/AudioConfig
+Audio/SFX_MOBILE_BOOT_CHIME
+Audio/SFX_MOBILE_BOOT_COMPANY
+AudioClipInfo not found: 
+AudioGroup not found: 
+AudioManager
+B
+B NAME
+Back
+Bank Destroyed
+Battle results match!
+BattleSimulator.Simulate() - invalid arguments.
+Build is up to date!
+Build r
+BuildVersion OFF
+BuildVersion ON
+Buy gold for item
+C
+CLOSED
+Cafe Bazaar In-App Purchase system instantiated
+CafeBazaar
+CalcMaxPossibleLevelForStructure - Unable to compute for 
+CalcMaxPotentialCurrencyStorage - unhandled currencyType
+CalcPercentageOfActuallyDestroyedStructures - world == null
+Callback type not supported: 
+Callbacks cannot be static
+Calling CurrencyToPremiumCurrency but using premium currency
+Camera is not orthographic!
+Can only build one structure at a time.
+Can't add a property here
+Can't add a value here
+Can't assign null to an instance of type {inst_type}
+Can't close an array here
+Can't close an object here
+Can't finish upgrade now.
+Can't purchase shield as it hasn't cooled down yet: 
+CanRunAllDeployCommands ran in 
+Cancel
+CancelNotification
+Cannot add different curency types!
+Cannot apply changes to property 
+Cannot begin a sub-item while performing packed encoding
+Cannot build anymore roads!
+Cannot complete upgrade! Item is not upgradable
+Cannot create a TypeSerializer for nullable types
+Cannot create a control that has null type.
+Cannot create unit: 
+Cannot demote a player that's not in a group. gameStateId=
+Cannot demote player further! gameStateId=
+Cannot deserialize sub-objects unless a model is provided
+Cannot forge itemTypeId=
+Cannot initialize facebook javascript
+Cannot make a request while there is one in progress!
+Cannot promote a player that's not in a group. gameStateId=
+Cannot promote player further! gameStateId=
+Cannot read from stream
+Cannot rearm trap as it's not unarmed. Id=
+Cannot register null factoryMethod!
+Cannot request a new card while a request is pending!
+Cannot sell item
+Cannot serialize property without a get accessor
+Cannot serialize sub-objects unless a model is provided
+Cannot snitch yet!
+Cannot start party - feature is disabled on server!
+Cannot start party while upgrading building!
+Cannot treat arrays as lists
+Cannot upgrade upgradeItemIndex=
+Cannot write a 
+Cannot write to stream
+Char: 
+ChopperL01
+ChopperL01/Chopper_L01_Rotor
+ChopperL01/Chopper_L01_TailRotor
+ChopperL02
+ChopperL02/Chopper_L02_Rotor
+ChopperL02/Chopper_L02_TailRotor
+ChopperL03
+ChopperL03/Chopper_L03_Rotor
+ChopperL03/Chopper_L03_TailRotor
+Claimed key: 
+Clear Player Key
+Click object to output info of
+Client GameCircle - Service is ready
+ClientSession - error: 
+Color palette spreadsheet contains duplicate id: 
+ColorPalettes
+CompareBattleEndedMessages - 
+CompareTo: other is null
+Concepts1Atlas
+Config/AmazonStoreVersion
+Config/BlueStacksVersion
+Config/CafeBazaarVersion
+Config/Config
+Config/MaysalwardVersion
+Config/StressTestData
+Constructor-skipping is not supported on this platform
+Container is null
+Control 
+Control already has a parent!
+Control cannot be cast to the specified type
+Control type '
+Cop Siren Start
+Copied 
+Cops Spawned
+Copy to Target\n(CAREFUL!!)
+Could not find control type: 
+Could not find type 
+Could not locate product in catalog: 
+Could not process collision of 
+Could not resolve host
+Couldn't create object with objectTypeId='
+Couldn't determine cost for obj 
+Couldn't find button!
+Couldn't find drawcall!
+Couldn't find handler for messageType=
+Couldn't find mansion in source game state
+Couldn't find sprite for object: 
+Couldn't load spreadsheet for objectTypeId 
+Couldn't locate RenderZOffset '
+Couldn't locate data in spreadsheet: 
+Couldn't locate font id 
+Couldn't locate group building!
+Couldn't locate material path for draw call id=
+Couldn't locate sprite 
+Couldn't locate texture atlas
+Couldn't process null command!
+Couln't locate required nineslice control
+CountOwnedItems
+Create Removable
+CreateBuilder
+CreateButtonForStorageFill - failed to create contained
+Created atlas: 
+Creator already registered!
+Crime Coast Feedback (
+Cross-platform replay synchronization on CLIENTS only.
+CurrencySymbols
+Current
+Current Player Name
+Current screen is not the intro screen!
+CustomItemForgeCombinations
+Cycle=
+Cyclic inheritance is not allowed
+D
+D2
+D4
+DE.RecordStressTest
+DEABTest.FromData - data is null!
+DEAllocator<
+DEAttackBonusSystem.CalcAttackMultiplier - null pointer
+DEBUG
+DEBattle.Reset(): Unable to create attackerWorld!
+DEBattleSummary.VerboseCompare() - other is null
+DEBitConverter - Unable to convert to type 
+DEBitConverter.ConvertFromBytes<T>: value is null!
+DEBufferReader.ReadBytes() - Length < 0
+DEColorPalettes - invalid id at row 
+DEConcurrentAllocator<
+DECurrencyAmount - Unable to parse encoded amount string: 
+DECurrencyAmount: Invalid DECurrencyType: 
+DEDeathFrameData.FromData - bytes == null
+DEHitRecorder.FromData - bytes
+DEIconEditorConfig - invalid item / value pair at row 
+DEItemForgeCustomCombinations - invalid id at row 
+DEItemQuantityList.FromData - data == null
+DEItem_BailUnit.useOnGameState - unit == null
+DEItem_Counterintelligence_8
+DEItem_Counterintelligence_9
+DEMath.MakeLength(Vector2, float) - Failed with params v=
+DEMath.MakeLength(Vector3, float) - Failed with params v=
+DEMessageHandler_OnlineGameStateMessages - data is null!
+DEObjectData.FromBytes - bytes == null
+DEObjectData.FromBytes - bytes.Length <= 0
+DEObjectData.MergeWith() - Item '
+DEObject_Trap_AntiAir - invalid target!
+DEObject_Unit_Air_Airplane_AAMissile.Launch - target == null
+DEQualitySetting
+DEQualitySettings.reducedScreenResolution = 
+DEQualitySettings.uiLowQuality = 
+DEQualitySettings:\nDEQualitySettings.halfWorldResolution = 
+DEReferralRewards - invalid mansionLevel at row 
+DEReferralRewards - invalid reward at row 
+DESerializer.Deserialize<T> - error deserializing 
+DESerializer.Serialize<T> - error serializing 
+DESpecialOffer.FromData - data == null
+DETroopRequestData.FromData - data is null
+DEVulgarityFilter - couln't locate 
+DEVulgarityFilter - strings don't have the same length!
+DP
+DQ
+Daily Reward
+DataFormat
+DataMemberOffset
+Dead clients: 
+Debug = 
+Debug.DeployDefStructures
+Debug.PopulateClubs
+Debug.RotateDefStructures
+Debug.UnlockAllMissions
+DebugRender.CameraInfo
+DebugRender.CameraShake
+DebugRender.DataTransfer
+DebugRender.Ranges
+DecodeWithChecksum - Invalid data format
+DecodeWithChecksum - data = null
+DecryptIncomingData - data = null
+Decrypted message = 
+Deduct killed troops\n
+DeductCurrencyForBuildOrUpgrade - Invalid cost
+Deducted currency but didn't conclude transaction!
+Default
+Default value is of incorrect type
+DeleteAll 
+DeleteKey 
+DeleteMessages: 
+DeliverOffer - gameState == null
+DeliverSpecialOffer - currentSpecialOffer is null!
+DeliverSpecialOffer - productId is invalid!
+Deploy C.Bombs
+Deploy On Map\nEdges \n
+Deployed Snipers
+Deserialization error
+Deserialize<T> - no bytes to deserialize.
+DeserializePlainObject - Object of class 
+DeserializePlainObject<T> - b != 1
+Destroy
+Dictionary
+Did not find expected value '{0}' in dictionary
+DisplayDismissableTipPopUp_
+DisplayWorldId
+DoDeserialize
+DoDeserialize<T> - Unsupported type: 
+DoSerialize
+DoSerialize<T> - Unsupported type: 
+DoShoot - biker == null
+DoUnitDispatch - failed locating unit
+Downgrade Selected
+Downgrade Structure
+Downgrade Units
+Downgrade Walls
+Downgrade all
+Downloading spreadsheet: 
+Draw calls already created?
+Dump Stats
+Duplicate 
+Duplicate field-number detected; 
+Duplicate type
+Duplicated audio clip id: 
+Duplicated column title in spreadsheet: 
+Duplicated frame: 
+Duplicated row title in spreadsheet: 
+Duplicated spreadsheet line: 
+Dynamic type is not a contract-type: 
+DynamicType
+E
+ERROR_PARSING_JSON
+EUR
+Effects/
+Effects/AAMissileExplosion
+Effects/AAMissileSmokeTrail
+Effects/AirplaneFallingSmoke
+Effects/AirplaneMidAirExplosion
+Effects/AirplaneShot
+Effects/AirplaneSmokeTrail
+Effects/BuildingDestroyed_
+Effects/C4BombExplode
+Effects/CarBombExplode
+Effects/ChopperSmokeTrail
+Effects/ClusterBomb
+Effects/CollectFood
+Effects/CollectSilver
+Effects/DefensiveStructureCloaked
+Effects/EquipItem
+Effects/Exploded_Character_Body
+Effects/GrenadeExplode
+Effects/Healing
+Effects/IntroVanNitro
+Effects/JessiePowerPunch
+Effects/LevelUp
+Effects/LowRiderMachineGunSmoke
+Effects/MineExplosion
+Effects/MineExplosion_High
+Effects/MissileExplode
+Effects/MortarExplode
+Effects/MortarLaunch
+Effects/PedestrianRanOverByVehicle
+Effects/PlaceBuilding_1x1
+Effects/PlaceBuilding_2x2
+Effects/PlaceBuilding_3x3
+Effects/PlaceBuilding_4x4
+Effects/PlaceBuilding_5x5
+Effects/PlaceBuilding_6x6
+Effects/PlaceBuilding_7x7
+Effects/PlaceBuilding_Small
+Effects/Prison_Counterintelligence
+Effects/RemovableRemoved
+Effects/ShotgunSingleShot
+Effects/ShotgunSingleShot.Blue
+Effects/ShotgunSingleShot.Green
+Effects/TakeHit_Building
+Effects/TakeHit_Character
+Effects/TakeHit_Poison
+Effects/TakeHit_Vehicle
+Effects/ToucanShoot
+Effects/TrapRearm
+Effects/UI/ObjectiveClaimed_B
+Effects/UI/ObjectiveClaimed_C
+Effects/UI/ObjectiveClaimed_G
+Effects/UI/RaidEndedAwaredStar_
+Effects/UI/Recommend_5_Stars
+Effects/UI/SocialSharingBonus
+Effects/VehicleDestroyed
+Effects/VehicleMoveOffroad
+ElementName
+Elements 
+Elements are different: 
+Empty Access token string
+Empty column title in spreadsheet. Column Index=
+Empty message to user?
+EncodeWithChecksum - data = null
+Encoding data in version 0
+Ended Part Intro 2
+English
+EnumPassthru
+EnumPassthruHasValue
+Equip Foritifies
+Error creating MemoryStream from text: 
+Error creating with objectTypeId='
+Error downloading remote spreadsheet: 
+Error encountered while Jsoning
+Error encountered while UnJsoning
+Error encountered while creating Object from dicionary
+Error encountered while getting object dictionary
+Error housing unit: 
+Error loading color palettes!
+Error loading custom item forge combinations!
+Error loading icon editor config
+Error loading referral rewards spreadsheet!
+Error loading texture 
+Error on carried_units_
+Error parsing Json file.
+Error parsing Vector2: 
+Error parsing Vector4 property 
+Error parsing XML: 
+Error parsing bool property 
+Error parsing color: 
+Error parsing float property 
+Error parsing integer property 
+Error parsing parameters of objectiveId=
+Error parsing xml.
+Error parsing xml: 
+Error restoring Prison. Invalid researchtech
+Error sorting sprites 
+Error validating Create command!
+Error: 
+Error: Error button pressed
+Error: housed object which is not a unit!
+Error: not enough 
+Error: unable to remove unit from house
+Event call threw exception: 
+Exception while simulating battleId=
+Exception: 
+Executing callback
+Expected a property
+Expected field 
+Expiration time is unassigned
+Exponent
+F
+FALSE
+FATAL: An internal error occurred
+FB is not initialised!
+FB.LogInWithPublishPermissions Error: 
+FB.LogInWithPublishPermissions success
+FB.LogInWithReadPermissions Error: 
+FB.LogInWithReadPermissions success
+FB.ShareLink Error: 
+FB.ShareLink success! result.PostId=
+FBUnity.activateApp
+FBUnity.init
+FBUnity.logAppEvent
+FBUnity.logPurchase
+FBUnity.login
+FBUnity.logout
+FBUnity.ui
+FBX/AAMissile/AAMissilePrefab
+FBX/AATrapMissile/AATrapMissile_L01
+FBX/AATrapMissile/AATrapMissile_L02
+FBX/AATrapMissile/AATrapMissile_L03
+FBX/Chopper/Chopper
+FBX/ClusterBomber/ClusterBomber
+FBX/SuperTucano/SuperTucano
+FPS OFF
+FPS ON
+FShape_Circle.Contains() not implemented
+FShape_Point.Contains() not implemented
+FShape_Rect.Contains not implemented for shape 
+FULFILLED
+FXSpriteSheetAdditive
+FXSpriteSheetAlphaBlend
+Facebook object is not yet loaded.  Did you call FB.Init()?
+Facebook.Android.SDK.{arg}
+Facebook.JS.SDK.{0}
+Facebook.Unity.FBDebug
+Facebook.Unity.Tests
+Facebook.iOS.SDK.{IOSFBSdkVersion()}
+Facebook/Resources
+FacebookJsBridge
+FacebookSettings
+Factory method already registered! itemTypeId=
+Failed finding edge!
+Failed finding location for removable.
+Failed housing missile!
+Failed loading TextAsset: 
+Failed loading audio config file: 
+Failed parsing boolean value from spreadsheet 
+Failed parsing custom offset for spriteDescriptor: 
+Failed parsing date time from spreadsheet: 
+Failed parsing floating point number from spreadsheet 
+Failed parsing integer from spreadsheet 
+Failed parsing time span from spreadsheet: 
+Failed processing battle command: 
+Failed processing replay command: 
+Failed restoring game state
+Failed restoring unit descriptor: 
+Failed storing text: 
+Failed storing texture: 
+Failed surrounding with roads.
+Failed to create instance of 
+Failed to find parameter '{0}' in login result
+Failed to process message id=
+Failed to restore housed unit: 
+Failed to set encoded font dimensions for control 
+Fantastiche
+FeedShare
+FetchDeferredAppLinkData
+Field mismatch during packed encoding; expected 
+Final battle frame data retrieved.
+Find Access Token
+Fixing ID of BuildingCo! It was 
+Flushed out connection in 
+Flushing took too long. Aborting.
+Font '
+Font Name
+Found a controller with id: '
+Frame time=
+French
+FromData
+FromObjectData<T> - Unhandled field name=
+FromObjectData<T> - Unhandled property name=
+Fungameco.BuildVersion
+Fungameco.FPSCounter
+Fungameco.Log_alignment
+Fungameco.Log_enabled
+Fungameco.Log_size
+Fungameco.Profiler.Enabled
+Fungameco.ScreenResWatcher
+Fungameco.UIControl_
+G
+GAME_CHIME
+GCM: DeleteMessages: 
+GCM: ErrorCallBack: 
+GCM: Message: 
+GCM: Registered: 
+GCM: Unregistered: 
+GCMReceiver
+Game
+Game language set to 
+Game.lastKnownHomeTown == null
+GameCamera
+GameCenter: Report Score: 
+GameCircleManager -  requestAchievementsFailed
+GameCircleManager -  requestAchievementsForPlayerCompleted
+GameCircleManager - OnApplicationQuit
+GameCircleManager - batchFriendsRequestComplete
+GameCircleManager - localPlayerFriendRequestComplete
+GameCircleManager - onSignedInStateChange
+GameCircleManager - playerFailed
+GameCircleManager - playerReceived
+GameCircleManager - requestAchievementsSucceeded
+GameCircleManager - requestLeaderboardsFailed
+GameCircleManager - requestLeaderboardsSucceeded
+GameCircleManager - requestLocalPlayerScoreFailed
+GameCircleManager - requestLocalPlayerScoreSucceeded
+GameCircleManager - requestPercentileRanksFailed
+GameCircleManager - requestPercentileRanksForPlayerSucceeded
+GameCircleManager - requestPercentileRanksSucceeded
+GameCircleManager - requestPlayerScoreCompleted
+GameCircleManager - requestScoresFailed
+GameCircleManager - requestScoresSucceeded:
+GameCircleManager - serviceNotReady
+GameCircleManager - serviceReady
+GameCircleManager - submitScoreFailed
+GameCircleManager - submitScoreSucceeded
+GameCircleManager - updateAchievementSucceeded
+GameCircleManager - updateAchievementsFailed
+GameGroupCreate
+GameGroupJoin
+GameScripts
+GameStateId=
+GeneratedMessage`2
+Generating RSA Key
+German
+GetAllItems - gameState == null
+GetAppLink
+GetCardUIColour - Unhandled rarity: 
+GetEnumerator
+GetFinalBattleSummary - invalid params
+GetGroupForGameStateId - values = null
+GetHousingSpace: invalid params
+GetItemFromInventoryMessage - missing item! inventoryId=
+GetLoading \"board\" argument should not be null
+GetMansion - mansion is null
+GetName - fieldInfo == null && propertyInfo == null
+GetNextUpgradeCost - cost is null
+GetOrder - fieldInfo == null && propertyInfo == null
+GetOrderId
+GetPriceCurrencyCode
+GetProductDescription
+GetProductPrice
+GetPurchaseData
+GetPurchaseSignature
+GetRarityString - Unhandled rarity: 
+GetSdkVersion
+GetTargetURL
+GetValueFor - values == null || values.Length == 0
+Get_BoolValue - unable to parse '
+Get_FloatValue - unable to parse '
+Get_IntValue - group >= values.length
+Get_IntValue - unable to parse '
+Give Currency\n(10%)
+Give Currency\n(1000000)
+Go Battle!\n(Town #
+Go Home (#
+Go Replay!\n(Town #
+Gold
+Good news!
+GooglePlay
+Got here: crash will happen on iOS...
+Group=
+H
+Handler already registered!
+Handling of message failed: 
+HasValue
+Henchman is not unlocked!
+Henchmen
+High command not found!
+Hire Henchman
+Home Index
+HomeTownID
+How did you get here? Investigate.
+I
+IDFA
+ILeaderboard.SetUserFilter is not available for GameCircle
+ILeaderboard.maxRange.get is not available for GameCircle
+ILocalUser.image.get is not available for GameCircle
+ILocalUser.state.get is not available for GameCircle
+ILocalUser.underage.get is not available for GameCircle
+INVALID_IAP_
+IProducerConsumerCollection`1
+IReadOnlyCollection`
+IScore.date.get is not available for GameCircle
+ISocialPlatform.LoadUsers is not available for GameCircle
+IconEditorConfig
+IgnoreListHandling
+Ignoring message
+ImmutableSet
+ImplicitFields
+ImplicitFirstTag
+In retreat mode
+InAppPuchaseManager2 was not properly initialised.
+InAppPurchaseManager_Amazon.GetAvailableItemData(
+InAppPurchaseManager_Amazon.GetProductDataEventHandler(
+InAppPurchaseManager_Amazon.GetUserDataEventHandler(
+InAppPurchaseManager_Amazon.InitWithItems(
+InAppPurchaseManager_Amazon.PurchaseResponseHandler(
+InAppPurchaseManager_Amazon.PurchaseUpdatesResponseHandler(
+InAppPurchaseManager_Amazon.RequestPurchaseUpdates(
+InAppPurchases
+Incorrect number of bytes consumed
+Index out of bounds: 
+InferTagFromName
+InferTagFromNameHasValue
+Init
+Initialised item list is invalid!
+Input doesn't evaluate to proper JSON text
+Instance of JsonData doesn't hold a double
+Instance of JsonData doesn't hold a string
+Instance of JsonData doesn't hold an int
+Instance of JsonData is not a dictionary
+Instance of JsonData is not a list
+Instantiate - Unable to instantiate objectTypeId=
+Instantiated unit to be housed
+Int Prrty=
+Internal Error: Unknown callback id
+Internal error; a key mismatch occurred
+Internal error; a missing key occurred
+Intro
+Intro Ended!
+Intro Text 3
+Intro Text 4
+Intro Text 5
+Invalid DEObjectData Version: 
+Invalid Marketplace data!
+Invalid S array
+Invalid XML: should start with <ui> tag.
+Invalid amount to buy
+Invalid android public key.
+Invalid args!
+Invalid atlasPath: 
+Invalid baseName
+Invalid callback signature in 
+Invalid char in code: 
+Invalid char:
+Invalid character '{(char)c}' in input string
+Invalid color: 
+Invalid costToBuildOrUpgrade! Using ZeroCash.
+Invalid country code!
+Invalid courierInventoryId. GameState=
+Invalid currency amount descriptor: 
+Invalid currency amount for party.
+Invalid currency for cloaking
+Invalid currency type
+Invalid currency type.
+Invalid data
+Invalid data format version. expected=
+Invalid data! (1)
+Invalid data! (2)
+Invalid date!
+Invalid delegate. Aborting
+Invalid factory signature in 
+Invalid field in source data: 
+Invalid font file
+Invalid frame number: 
+Invalid group id!
+Invalid group name
+Invalid groupId or groupName
+Invalid henchman index: 
+Invalid index!
+Invalid itemId
+Invalid language index.
+Invalid language niceNameId
+Invalid level for object:
+Invalid level id: 
+Invalid level: 
+Invalid locally stored texture: 
+Invalid method name.
+Invalid method: 
+Invalid middleware config
+Invalid name
+Invalid object data (0)
+Invalid object data (1)
+Invalid object index.
+Invalid objectQuantity
+Invalid objectTypeId
+Invalid objectTypeId: 
+Invalid objective type. id=
+Invalid objective type_params: 
+Invalid order id
+Invalid owner
+Invalid owner?
+Invalid parameters
+Invalid parent
+Invalid party length
+Invalid pattern for checking member-specified
+Invalid pattern for setting member-specified
+Invalid percentage to fill storage by
+Invalid player name: '
+Invalid pre_req for objective: 
+Invalid privateKeyData
+Invalid probability string: 
+Invalid receiptId: 
+Invalid referral code.
+Invalid researchTech: 
+Invalid response from server!
+Invalid screen: 
+Invalid sendMessageFunc
+Invalid sender!
+Invalid serialization operation with wire-type 
+Invalid server_url in config file?
+Invalid stage index: 
+Invalid stage number!
+Invalid state!
+Invalid stateId
+Invalid structure
+Invalid structure id=
+Invalid syntax in config file: 
+Invalid targetGameStateId=
+Invalid tech level
+Invalid token '{token}' in input string
+Invalid type: 
+Invalid user or message for ChatMessage.
+Invalid verification digit
+Invalid world or sendMessageFunc
+Invalid xml attribute: 
+InvalidateIAPs
+Invalidate\nIAPs 
+Inventory is null
+InverseQ
+IsBusy() == true - currentRequests.Count=
+IsPacked
+IsReady
+IsRequired
+Italian
+Item
+Item cannot be used!
+Item is not equippable.
+J
+JSSDKBindings
+JsonData array
+JsonData instance doesn't hold a boolean
+JsonData instance doesn't hold a double
+JsonData instance doesn't hold a long
+JsonData instance doesn't hold a string
+JsonData instance doesn't hold an int
+JsonData object
+Key
+KeyValuePair`2
+Known type cannot be blank
+LOG
+LVL
+LVL0
+LVL1
+LVL10
+LVL100
+LVL101
+LVL102
+LVL103
+LVL104
+LVL105
+LVL106
+LVL107
+LVL108
+LVL109
+LVL11
+LVL110
+LVL111
+LVL112
+LVL113
+LVL114
+LVL115
+LVL116
+LVL117
+LVL118
+LVL119
+LVL12
+LVL120
+LVL121
+LVL122
+LVL123
+LVL124
+LVL125
+LVL126
+LVL127
+LVL128
+LVL129
+LVL13
+LVL130
+LVL131
+LVL132
+LVL133
+LVL134
+LVL135
+LVL136
+LVL137
+LVL138
+LVL139
+LVL14
+LVL15
+LVL16
+LVL17
+LVL18
+LVL19
+LVL2
+LVL20
+LVL21
+LVL22
+LVL23
+LVL24
+LVL25
+LVL26
+LVL27
+LVL28
+LVL29
+LVL3
+LVL30
+LVL31
+LVL32
+LVL33
+LVL34
+LVL35
+LVL36
+LVL37
+LVL38
+LVL39
+LVL4
+LVL40
+LVL41
+LVL42
+LVL43
+LVL44
+LVL45
+LVL46
+LVL47
+LVL48
+LVL49
+LVL5
+LVL50
+LVL51
+LVL52
+LVL53
+LVL54
+LVL55
+LVL56
+LVL57
+LVL58
+LVL59
+LVL6
+LVL60
+LVL61
+LVL62
+LVL63
+LVL64
+LVL65
+LVL66
+LVL67
+LVL68
+LVL69
+LVL7
+LVL70
+LVL71
+LVL72
+LVL73
+LVL74
+LVL75
+LVL76
+LVL77
+LVL78
+LVL79
+LVL8
+LVL80
+LVL81
+LVL82
+LVL83
+LVL84
+LVL85
+LVL86
+LVL87
+LVL88
+LVL89
+LVL9
+LVL90
+LVL91
+LVL92
+LVL93
+LVL94
+LVL95
+LVL96
+LVL97
+LVL98
+LVL99
+Label control without font: 
+Language=
+LastSentFBAccessTokenString
+LeaderboardRequestCallback_cont == null
+Leave Def.Units\n
+Lengths differ!
+List already contains this item.
+Listing equipped items:
+Live battle frame=
+Live clients: 
+Load
+LoadAchievements \"callback\" argument should not be null
+LoadFriends \"user\" argument should not be null
+LoadScores \"board\" argument should not be null
+Loaded DEABTest key=
+LocalBuild
+LocalNotifications.CancelAll()
+LocalNotifications.Schedule(when=
+Log 
+Log OFF
+Log ON
+LoginWithPublishPermissions
+LoginWithReadPermissions
+Logout
+MWActivator - Failed to create instance of 
+MWActivator - Type 
+MafiaWars
+Mafiosos
+Main
+MainThreadAction tried to be executed outside main thread!
+MainThreadDispatcher
+MainThreadDispatcher - a == null
+MainThreadDispatcher - not initialised!
+Mansion
+Map1Atlas
+Marc Gravell
+Material
+Material 
+Material for draw call id '
+Maysalward
+MemberName
+Memory Manager RECEIVED LOW MEMORY WARNING!
+Message is not of systemtext type
+Message: 
+Messaging plugin not yet implemented on Android
+MetadataTimeoutMilliseconds
+Middleware was not initialised!
+Middleware.lastCallingMonoBehaviour is null
+MiddlewareServerTimeRequestId
+Middleware_AndroidLocalNotification_Count
+Missing inventoryId or itemTypeId
+MobileBoot
+Mock App Invite
+Mock App Request
+Mock Feed Share
+Mock Group Create
+Mock Group Join
+Mock Login Dialog
+Mock Pay Dialog
+Mock Share Link
+MockUserId
+Modulus
+Mouse ScrollWheel
+MoveNext
+Moving up to next reward!
+Multi-dimension arrays are supported
+Multiple enums with deserialized-value 
+Multiple enums with wire-value 
+N3
+NHibernate.Intercept.IFieldInterceptorAccessor
+NHibernate.Proxy.DynamicProxy.IProxy
+NHibernate.Proxy.INHibernateProxy
+NONE
+Name
+Navigation Grid\n
+NavigationGrid
+Nested or jagged lists and arrays are not supported
+News
+News test mode is on, but test_news_item is not defined
+NineSlice controls need to have a sprite property.
+No 
+No .proto map found for: 
+No audio clips found in config file 
+No color for 
+No extension object available; appended data would be lost.
+No henchman to fire!
+No invalid offer to display
+No java class 
+No parameterless constructor found for 
+No roads in this city?
+No root object assigned
+No serializer defined for type: 
+No suitable conversion operator found for surrogate: 
+No units to deploy!
+No units to empty
+No wire-value is mapped to the enum 
+None
+Not all keys are covered by values
+Not attached to a drawcall
+Not enough currency for party.
+Not enough special currency!!
+Not implemented.
+Not initialised
+Null pointer
+OFF
+OK
+ON
+Object 
+Object already has a parent!
+ObjectId=
+Objectives
+Objectives: Invalid p0=
+Obtained server address: 
+Off
+On
+OnAppRequestsComplete
+OnApplicationFocus=
+OnGUI
+OnGroupCreateComplete
+OnJoinGroupComplete
+OnPayComplete
+OnShareLinkComplete
+Only simple data-types can use packed encoding
+Onwer is null or not a draw call!
+Optimisation allows a maximum of 
+Order
+Order has already been delivered:
+Order has been already delivered. Removing from list: 
+Other/AmazonGameCircleManager
+Other/ThumbnailCamera
+Output GameState
+Output Info
+OverwriteList
+P
+PLATFORM_NOT_SUPPORTED
+POST
+Packed encodings cannot support null values
+Palette doesn' exist: 
+Parent is null!
+Parse
+Part 3 All Enemies Dead
+ParticleSystemUV - Unable to load texture atlas!
+Particles
+Party_Club
+Party_House
+Passing validation of IAP for gameStateId=
+Pathfinding Debug Render\n
+Pathfinding Test\n
+PathfindingDebugRender
+PathfindingTest
+Pending transactions: 
+Persian
+Plane_Level01_Prop
+Plane_Level02
+Plane_Level02_Prop
+Plane_Level03
+Plane_Level03_Prop
+Play
+Player keys don't match. How?
+Points
+Polish
+Pop up closed before request could be processed.
+PopUpTab.Create - invalid params
+Populate Clubs\n
+Portuguese
+Possible recursion detected (offset: 
+PreAdvanceBattle: targetFrame=
+Prefab doesn't exist: 
+Prefab not setup properly: 
+Premature end of data
+Prison
+Prize is null
+ProcessMessage_ForgeItem - item is null for itemTypeId=
+ProcessMessage_GroupDemote
+ProcessMessage_RegenerateHero - invalid inventoryId
+ProcessMessage_RegenerateHero - is null
+ProcessMessage_SellAllItems - !inventory.RemoveItem(item)
+ProcessMessage_StartKeyTimers - didn't start timers
+ProcessMessage_UseAllItems - item.useOnGameState == null
+ProcessMessage_UseItem - missing item! inventoryId=
+ProcessReceiveTroopsMessage - error deserializing descriptor
+ProcessUnequipItemMessage - missing item! inventoryId=
+Profiler OFF
+Profiler ON
+Progress Stats
+Protected informed of henchman change
+Protection
+ProtoBuf.ProtoAfterDeserializationAttribute
+ProtoBuf.ProtoAfterSerializationAttribute
+ProtoBuf.ProtoBeforeDeserializationAttribute
+ProtoBuf.ProtoBeforeSerializationAttribute
+ProtoBuf.ProtoContractAttribute
+ProtoBuf.ProtoEnumAttribute
+ProtoBuf.ProtoIgnoreAttribute
+ProtoBuf.ProtoIncludeAttribute
+ProtoBuf.ProtoMemberAttribute
+ProtoBuf.ProtoPartialIgnoreAttribute
+ProtoBuf.ProtoPartialMemberAttribute
+Protocol Buffers for .NET
+Purchase Structure
+Purchase currency function didn't work as intended.
+Purchase wasn't successful.
+Q
+Queue
+Quitting App
+R
+RESULT=
+Random Removable
+Randomize
+Reached objective, but nothing to attack!
+ReadField - Unsupported type=
+ReadProperty - Unsupported type=
+Rearm All Traps
+Rearm Trap
+Reassigned facebook ID to this GameStateId failed
+Reassigned facebook ID to this GameStateId success
+Reassigning structure id=
+Received message has a null method name!
+Received null messages
+RecommendedGame
+RecommendedGameCounter
+RecordObjectDeath - o == null
+Reference-tracked objects cannot change reference
+Referral code too large - would cause overflow
+ReferralRewards
+Regenerate 
+Registered: 
+Registering atlases
+Reload UI on\ngain focus=
+ReloadUIOnGainedFocus
+Remote MD5 doesn't match! Data modified?
+Remote spreadsheet not found: 
+Removable already being removed
+RemovableReport: world is null!
+Remove
+Remove All\nRemovables
+Remove Currency\n
+RenderObjectManager.Update()
+Replay Last\nAttack Made\nBy Town #
+Replay Last\nAttack Suffered\nBy Town #
+Reported achievement progress: 
+RequestConsumePurchase
+RequestConsumePurchase - manager is not ready.
+RequestInventoryUpdate
+RequestPurchase
+RequestPurchase - manager is not ready.
+Requested IAP: 
+Research Tech
+Research is not in progress.
+Reset GameState\n(confirm\ndata loss!)
+Reset Objectives
+Reset Stats
+Resetting rewards!
+Resolution 
+ResolveIAPProductId - data == null
+ResolveIAPProductId - idx <= 0
+ResolveIAPProductId - invalid prefix
+ResolveIAPProductId - string.IsNullOrEmpty(data.itemId)
+Response doesn't contain servers time.
+Restore\nStructures
+Restored legacy life force storage. Ignore following message
+Restored legacy metal ore storage. Ignore following message
+Reward_DayNumber
+Reward_LastAwardedLocalTime
+Reward_LastAwardedTime
+RewardsAnimatedBand_Disband
+Road type is invalid
+Russian
+S
+S arrays are different
+S lengths differ
+SKULLS
+SUCCESSFUL
+Save
+Save 
+Saved game 
+Saved text 
+Saved texture 
+Saving level = 
+Scheduling notifications
+Screen Res OFF
+Screen Res ON
+Secret
+Secure connection established. SessionID=
+See http://code.google.com/p/protobuf-net/
+Select Sniper Button
+Select Van Wait
+Selected Sniper Button
+Send Cancel
+Send Error
+Send Items - Item types mismatch: client=
+Send Success
+SendReinforcementUnit - descriptor is null
+Sending use_referral_code=
+Serialized array size=
+Serialized list size=
+Server maintenance
+ServerTime WWW error 0: 
+ServerTime WWW error 1
+ServerTime WWW error 2
+Service is not ready
+Service is ready: 
+Session not established. Cannot request!
+Set
+Set Permanently
+Set Player Name
+Set Text At AndroidBoard: 
+SetFloat 
+SetInt 
+SetLimitEventUsage
+SetNotification
+SetShareDialogMode
+SetString 
+SetText
+SetUserAgentSuffix
+Shape is not a rect.
+ShareLink
+Shift\nNE
+Shift\nNW
+Shift\nSE
+Shift\nSW
+ShouldSerialize
+Shouldn't be here.
+Show Stored\nCurrency 
+Show Unit\nLevels 
+ShowConfidentialData
+ShowStoredCurrency
+ShowUnitLevels
+Showing advert
+Shutdown
+Simulating a battle with clientsBattleSummary == null
+Simulating battle: 
+Simulation time 
+Single character expected: \"
+SkipConstructor
+Skipping initialisation
+Snipers are dead
+Social Platform Authenticate = 
+Solver was not allocated!
+Sorry, text includes invalid characters
+SoundGroup - Invalid parameters
+Spanish
+Sparks
+Special Offer Data:\n
+Specified
+Spreadsheet.loadStringFromResource is null
+SpreadsheetHelper() - obj is null
+Spreadsheets
+Spreadsheets/
+Sprite already created.
+Stack
+Start
+Start Intro Part 4
+Start Party
+Start Upgrade
+StartCatalogQuery
+StartCatalogQuery - manager is not ready.
+StartDirectBattle - !useBullyCard && challengeId < 0
+Stop All
+Stress test client error: 
+StressTester_currentDeviceIndex
+StressTester_intervalToCreateNewDevice
+StressTester_maxActiveDevices
+StressTester_sessionLength
+Structure is  upgrading!
+Structure is not cloakable
+Structure is not upgrading!
+Structure_Bank
+Structure_Bunker
+Structure_Cannon
+Structure_CelestialStatue
+Structure_Club
+Structure_ElectricTower
+Structure_Garage
+Structure_GuardTower
+Structure_House
+Structure_Hutch
+Structure_Lab
+Structure_LawOffice
+Structure_LeaderboardStatue
+Structure_MachineGun
+Structure_Mansion
+Structure_MissileSilo
+Structure_Mortar
+Structure_Prison
+Structure_Removables
+Structure_Road
+Structure_RoadBlock
+Structure_Scrapyard
+Structure_Shop
+Structure_TopPlayerStatue
+Structure_TrapAntiAir
+Structure_TrapJaws
+Structure_TrapMine
+Structure_TrapMineAntiVehicle
+Structure_Wall
+Structure_Warehouse
+Structure_WilderStatue
+Sub-message not read correctly
+Sub-message not read entirely
+Sub-types can only be added to non-sealed classes
+Swap with Target\n(CAREFUL!!)
+System
+System.
+System.Collections.Concurrent.IProducerConsumerCollection`1
+System.Collections.IDictionary
+System.Collections.IList
+System.ComponentModel.DefaultValueAttribute
+System.Data.Entity.DynamicProxies.
+System.Data.Linq.EntitySet`1[[
+System.NonSerializedAttribute
+System.Runtime.Serialization.DataContractAttribute
+System.Runtime.Serialization.DataMemberAttribute
+System.Runtime.Serialization.OnDeserializedAttribute
+System.Runtime.Serialization.OnDeserializingAttribute
+System.Runtime.Serialization.OnSerializedAttribute
+System.Runtime.Serialization.OnSerializingAttribute
+System.Xml.Serialization.XmlArrayAttribute
+System.Xml.Serialization.XmlElementAttribute
+System.Xml.Serialization.XmlIgnoreAttribute
+System.Xml.Serialization.XmlTypeAttribute
+SystemInfo.systemMemorySize=
+T Create<T> objectTypeId is null!
+TEMPCODE
+TESTING MY NAME IS WILL
+THESE-ARE-THE-BOUNDARY-BYTES
+TRACE
+TRUE
+Tag
+Tags must be positive integers
+Target
+Test Player Name
+Test your app on one of the supported platforms
+Text entered (no delegate!):
+TextAsset is null
+Text_GameText
+Text_Objectives
+Text_Vulgarities
+Texture used in material 
+Texture.png
+The JsonData instance has to be initialized first
+The default model cannot be frozen
+The default model must allow missing types
+The factory-method must return object
+The formatted-name is fixed and cannot be changed
+The key has to be a string
+The model cannot be changed once frozen
+The root object cannot be reassigned
+The specified control does not belong to this container.
+The supplied default implementation cannot be created: 
+The type is fixed and cannot be changed
+The type specified is not a contract-type
+The type {inst_type} doesn't have the property '{text}'
+The writer is in an incomplete state
+There are no prizes in this league.
+This henchman is already hired!
+This is a test
+This is absolutely cool.
+This is the name
+This only needs to be called for iOS or Android.
+Timeout happened. Trying sending last request again.
+ToBytes(List<byte>) - buffer == null
+ToBytes(List<byte>) - bytes == null
+ToBytes<T> - unable to serialize object
+ToImmutable
+ToObjectData<T> - Unhandled field name=
+ToObjectData<T> - Unhandled property name=
+ToString
+Total removables: 
+Tracked purchase of 
+Tracking Van
+Training is not in progress.
+Training queue is null!
+TryAdd
+TucanoL02
+TucanoL03
+Tutorial Started
+Type 
+Type is not expected, and no contract can be inferred: 
+Type {inst_type} can't act as an array
+TypeName
+UI.InteractionPriority
+UI/GCUIDefs
+UI/HUDUI
+UI/IntroUIDefs
+UI/MafiaWarsUI
+UI/MainUI
+UI/MapUI
+UI/UIDefs
+UI0Atlas
+UI1Atlas
+UI2Atlas
+UIControl_Sprite.Redimension - invalid sprite
+UIControl_TiledSprite - sprite == null
+UIFontInfo cannot be null
+UIGroup.OverrideShaders - container is null
+UIGroup.OverrideShaders - shaderName is invalid
+UIHandler_AtlasImage - URL is invalid!
+UIHandler_ImageDownloader - URL is invalid!
+UIHandler_ImageDownloader: Error downloading image: 
+UIHandler_ImageDownloader: texture is null!
+UIHandler_TextInput - label not found
+UIHandler_TextInput must be attached to a button
+UISolidSimple
+UITransparent
+UITransparent (BottomClip)
+UITransparent (ClipTop)
+UITransparent+2
+UITransparentBW
+UITransparentBW (ClipTop)
+UITransparentFG
+UNITY
+USD
+USER_ID
+USER_NAME
+Unable to activate next game screen.
+Unable to cast owner to DEObject_Unit_RangeAttack
+Unable to cast owner to prefab
+Unable to claim key.
+Unable to close stream in an incomplete state
+Unable to complete troop request!
+Unable to compute angle for facing: 
+Unable to compute defender's power.
+Unable to compute difficulty tweak! Using default=1
+Unable to compute facing!
+Unable to compute speedup string
+Unable to convert currency type: 
+Unable to convert date time: 
+Unable to convert leaderboard
+Unable to convert number=
+Unable to create angles array.
+Unable to create billing class!
+Unable to create button for object with type id=
+Unable to create chat_message control
+Unable to create control from news spreadsheet xml=
+Unable to create drawcall
+Unable to create drawcall: 
+Unable to create icon draw call!
+Unable to create item: 
+Unable to create map tile control
+Unable to create pop up menu
+Unable to create projectile: 
+Unable to create public key data
+Unable to create road object!
+Unable to create shadowDrawCall
+Unable to create unique material sharedMaterial=
+Unable to deduct currency for showdown? How?
+Unable to deduct currency to re-arm trap!
+Unable to deduct currency to rearm missile now!
+Unable to deduct currency!
+Unable to deliver special offer!
+Unable to deserialize DETroopRequestData
+Unable to deserialize data with ProtoBuf. Exception: 
+Unable to determine bundle id!
+Unable to determine index
+Unable to determine member: 
+Unable to dispatch troops: 
+Unable to download asset bundle!
+Unable to find a new idle position for unit. WorldId=
+Unable to find atlas
+Unable to find atlas 
+Unable to find atlas.
+Unable to find best parent for DrawCall
+Unable to find bore sprite for 
+Unable to find draw call
+Unable to find grid
+Unable to find mafiaWars_Weapons
+Unable to find muzzle flash spriteId=
+Unable to find panel for client: 
+Unable to find protectionId=
+Unable to find shader: 
+Unable to find speedup.
+Unable to find sprite 
+Unable to find sprite control
+Unable to find sprite textureGUID=
+Unable to find sprite: 
+Unable to find spriteId=
+Unable to find target position for builder.
+Unable to find texture atlas: 
+Unable to find unit to be sent! 
+Unable to finish training current unit now. It's null!
+Unable to generate RSA keys
+Unable to get amazon iap service
+Unable to get message index 
+Unable to give out removable. None is available!
+Unable to go to target location
+Unable to handle message of type: 
+Unable to handle online gamestate message: 
+Unable to house unit
+Unable to initialise game settings!
+Unable to load Config/StressTestData
+Unable to load TextAsset: 
+Unable to load Texture Atlas texture
+Unable to load animation 
+Unable to load atlas 
+Unable to load atlas: 
+Unable to load audio clip 
+Unable to load config 
+Unable to load gamestate
+Unable to load henchmen spreadsheet!
+Unable to load in-app purchase spreadsheet!
+Unable to load material 
+Unable to load objectives spreadsheet!
+Unable to load prefab 
+Unable to load protection spreadsheet!
+Unable to load resource 
+Unable to load sound clip 
+Unable to load texture atlas 
+Unable to load vulgarity filter entries
+Unable to locate barrel sprite 
+Unable to locate henchmanId=
+Unable to locate sprite data to deploy unit
+Unable to locate sprite data to deploy unit. spriteId=
+Unable to locate sprite fill prefix for 
+Unable to locate unit to dispatch!!
+Unable to obtain writer!
+Unable to parse CRC: 
+Unable to parse DE.settings.cloaking_Time
+Unable to parse FRect
+Unable to parse Vector2: 
+Unable to parse Vector3 from string: 
+Unable to parse config xml=
+Unable to parse float: 
+Unable to parse gamestate from hex string: 
+Unable to parse level index from metadata
+Unable to parse percentile item 
+Unable to parse received data
+Unable to parse star number
+Unable to process receive_troops message: embasy not found!
+Unable to purchase shield. Hack attempt?
+Unable to re-house unit
+Unable to read file: 
+Unable to read row '
+Unable to rearm - object not idle.
+Unable to rearm now - object not re-arming!
+Unable to register atlas!
+Unable to register atlas: 
+Unable to register texture atlas!
+Unable to remove courier card
+Unable to remove item to send from inventory!
+Unable to remove unit '
+Unable to resolve a suitable Add method for 
+Unable to resolve sub-type of: 
+Unable to resolve type: 
+Unable to restore reinforcements list!
+Unable to restore storage
+Unable to restore summary from data
+Unable to restore unit descriptor
+Unable to restore world or attacking world
+Unable to retrieve advertising ID: 
+Unable to retrieve atlas
+Unable to retrieve contents from URL: 
+Unable to retrieve group id!
+Unable to retrieve henchman!
+Unable to retrieve housed unit: 
+Unable to retrieve item to send. inventoryId=
+Unable to retrieve mansion!
+Unable to retrieve player's town
+Unable to retrieve screen '
+Unable to retrieve sprite: 
+Unable to retrieve text id for group status=
+Unable to retrieve upgrade cost
+Unable to save stress test data
+Unable to send purchase_item message
+Unable to set anim: 
+Unable to start a party as there's one going on already!
+Unable to start key timer.
+Unable to wrap the given object with JsonData
+Unequip Foritifies
+Unexpected boolean value
+Unexpected number of entries for the 'char' field (
+Unexpected number of entries for the 'common' field (
+Unexpected number of entries for the 'kerning' field (
+Unexpected result type: 
+Unexpected sub-type: 
+Unexpected wire-type: 
+Unhandled chatroom type.
+Unhandled client type.
+Unhandled condition!
+Unhandled currency type.
+Unhandled currency!!!
+Unhandled item type: 
+Unhandled property type for property id=
+Unhandled shape: 
+Uninitialized JsonData
+Unique and immutable AB test id
+Unit (
+Unit type not available
+Unit with a house doesn't have a housed unit
+UnitDescriptorList<T>.Restore() - data is null
+UnitState_Chopper - _chopper == null
+UnitState_NightClubDeploy: Night club not found!
+Unit_Biker
+Unit_Builder
+Unit_Celeste
+Unit_ClusterBombBeacon
+Unit_DemExp
+Unit_DerHammer
+Unit_Grenadier
+Unit_Jessie
+Unit_Medic
+Unit_Missile
+Unit_Sniper
+Unit_Soldier
+Unit_Sylvester
+Unit_Thief
+Unit_Wrecker
+Units not supported in server this way.
+Unity.{Facebook.Unity.FacebookSdkVersion.Build}
+UnityClientSandbox
+UnityFacebookSDKPlugin
+UnityFireEvent is not supported
+Unknown list variant: 
+Unknown member type: 
+Unknown min/max value: 
+Unknown timescale: 
+Unlimited Buildings\n
+Unlimited Units\n
+Unlock All Henchmen\n
+Unlock All Missions\n
+Unlock All Units\n
+Unregistered: 
+Unsupported platform.
+Update
+UpdateChallengeControl - info == null
+Updated spreadsheets to version: 
+Updating lastFixedStructureId to 
+Upgrade Selected
+Upgrade Structure
+Upgrade Units
+Upgrade Walls
+Upgrade all
+Upgrade all*
+UseObjectsFrom: invalid pointer(s)
+UseProtoMembersOnly
+UseRemoteSpreadsheets
+Used by game code to locate this AB test
+User Access Token:
+Using Unity SDK v{FacebookSdkVersion.Build}
+V1 doesn't support UTF16 strings!
+ValidateCommand - Command is null!
+Validation of in app purchase failed: 
+Value
+Van Deployed
+Van Selected
+Van Stopped
+Vehicle.Enter - unit is null
+Vehicle_BBVan
+Vehicle_CarBomb
+Vehicle_Chopper
+Vehicle_CopCar
+Vehicle_LowRider
+Vehicle_Toucan
+Vehicle_Van
+Verify - hpd is null\n
+Very nice!
+Video ads are disabled!
+Visit Town #
+VisitTownID
+Vulgarity filter doesn't contain any entries
+Vulgarity filter loaded with 
+WP8AlarmDialogDone
+WP8TotalOrders
+WPAllowAlarms
+Warning - unable to send reinforcement: 
+WasLoggedOut
+We Lost Tail!
+We shouldn't be here as previous checked checked for this!
+Whispersync element was unable to retrieve java iterator
+Whispersync element was unable to retrieve java keyset
+Whispersync element was unable to retrieve metadata java map
+Wiki
+Will
+Wire-type cannot be encoded as packed: 
+World stats: 
+WorldId/Power=
+WorldId=
+WriteField - Unsupported type=
+WriteProperty - Unsupported type=
+Wrong group was ended
+X
+X and Y
+X2
+XAMARIN
+XY
+Y
+You are running development build R
+You cannot provide an objectId without an actionType
+Your daily reward is ready to be collected!
+[
+[  ]
+[#00FFFFFFx#FFFFFFFF]
+[stopped]
+[{timeSpan.Minutes:00}:{timeSpan.Seconds:00}:{num:00}]
+\"
+\")
+\"> control not found.
+\"]
+\0
+\\
+\\\"
+\\\\
+\\b
+\\f
+\\n
+\\r
+\\t
+\\u
+\f
+\n
+\n rows[i]=
+\nAtt. Power=
+\nLocal / current version will be used! Error: 
+\nPower=
+\nSkulls=
+\nStackTrace:\n
+\nStacktrace: 
+\nTrophies=
+\n\n
+\n\n#FF2020FF
+\n\n#FFFF00FF
+\n\r
+\n\t
+\nbattleId=
+\nsent=
+\nzoom=
+\nzoomToTiles=
+\r
+\r\n
+\r\n--
+\t
+\u001b
+\u200c
+\v
+]
+] 
+_
+_0
+_BuildInfo
+_Button
+_ClipBottom
+_Color
+_CustomUVs
+_Fast
+_GC/
+_L
+_L1_
+_L_
+_L_1
+_Singleton
+_Stage0Alpha
+_Stage1Alpha
+_Stage1UVs
+_TrainButton
+__
+__AudioDebug
+__AudioEnabled
+__DEGameStateGold
+__RSAGenerationCounter
+____CR-4
+_____fgciap_
+__blocked
+__localRSA
+_allowedLevel
+_attackerId
+_button
+_chat_lastread_message
+_column_
+_cost
+_currencyACost
+_currencyBCost
+_d
+_deobjectDataV2Y
+_descr
+_description
+_e
+_gameStateId
+_gameStats1
+_groupId
+_h
+_i
+_i are different!
+_icon
+_iconDescriptor
+_inheritcoloramount
+_intValue
+_j
+_j are different!
+_leagueId
+_level_
+_lid
+_matchId
+_maxCount
+_maxLevel
+_n
+_name
+_ne
+_nw
+_offset
+_open
+_p
+_palette
+_power
+_requiredStructureLevel
+_revision
+_s
+_score
+_se
+_server_url
+_storage
+_stored
+_sw
+_swoosh
+_t
+_targetId
+_time
+_title
+_titleId
+_trainingQueueItem
+_unitSelectionBar
+_unlocked
+_upgradeTime
+_validChars
+_w
+_warId
+a
+a71278
+aamissile
+aamissile_explode
+aamissile_launch
+abtestdata
+acceptAndBanChatReportsDays
+accessToken
+access_token
+access_token=
+account_details
+achievementDateUnlocked
+achievementDescription
+achievementHidden
+achievementIcon
+achievementId
+achievementPointValue
+achievementPosition
+achievementProgress
+achievementTitle
+achievementUnlocked
+achievement\" argument should not be null
+achievement_completed_titile
+achievements
+acquire_now
+acquiring_missile
+action
+action is null
+actionType
+action_type
+active
+activeTests.ContainsKey(test.key)
+active_chat_pane
+actorName
+add
+add_to
+add_to must be a container
+additionalIconSprite
+additionalSprite_
+additionalString
+additional_stone
+adds_to_town
+affiliation
+airpatrol_
+airplane_chopper_loop
+airplane_explode
+airplane_falling
+airplane_fly_loop
+alarm_request
+alarm_request_postinfo
+alarm_system_activated
+alarmsystem_
+alias
+alias: {alias}, playerId: {playerId}, avatarUrl: {avatarUrl}
+align
+all
+alliance
+alliance_creation
+alliance_name_not_available
+allowDebugOptions
+allowDeployAnywhere
+allowExtendedIdle
+allowMultipleSelection
+allowOnlyOneButtonDown
+allowRepositioning
+allowUnitDeployment
+allowedDragOutDirections
+allowedMovement=
+already displaying
+altSetup
+alt_setup
+alwaysAllowScrolling
+alwaysAwardsHighlyDesirableItem
+amazon
+amazonUserData
+amount
+android.util.Log
+animatedFrame
+another_city
+appId
+appId cannot be null or empty!
+appLinkUrl
+app_id
+application/octet-stream
+apprequests
+approvalNeeded
+approved
+are_you_still_there
+are_you_sure_leave_alliance
+are_you_sure_youd_like_to_use_item
+arena
+arenaId
+arena_location
+args is null!
+armedObject is null!
+armor_piercing_pellets
+armor_piercing_pellets_description
+asDouble
+asInt
+asLong
+asString
+async
+atlasId
+atlas_image
+atlases
+attachedData
+attack
+attack!
+attackBreakLoopWait
+attackRange
+attackRangeMin
+attack_bonus_
+attack_power
+attack_range
+attacker=
+attackerData
+attackerGroupId
+attackerGroupName
+attackerId
+attackerName
+attackerObjectTypeId=
+attackerWorld
+attackersPointChange
+attackingWorld is null
+attacksWon
+audio_audiogroup_enabled
+audio_audiogroup_enabledmusic
+aura
+aura_destruction
+aura_health
+aura_poison
+aura_power
+aura_wily
+authResponse
+autoAlignWithParent
+autoRepeat
+auto_open
+available
+available_to_leaderboard_players_only
+avatar
+avatarUrl
+avatar_background_0
+avatar_updated
+award_crew_for_current_mansion_level
+axis
+b
+b is null.
+backButton
+back_button
+backwatched
+backwatched_sprite
+badBlueCostMultiplier
+badBlueIcon
+badBluePercentageText
+badBlueText
+badblue_1000
+badblue_10000
+badblue_150000
+badblue_200000
+badblue_5000
+badblue_50000
+badblue_pellets
+badblue_pellets_description
+badblue_production_bonus
+badbluemeter
+badbluespacer
+bailing_out_sped_up_time
+bailunit_carbomb_1
+bailunit_carbomb_2
+bailunit_carbomb_3
+bailunit_carbomb_4
+bailunit_carbomb_5
+bailunit_carbomb_6
+bailunit_hammer_1
+bailunit_hammer_2
+bailunit_hammer_3
+bailunit_hammer_4
+bailunit_hammer_5
+bailunit_hammer_6
+bailunit_mrm_1
+bailunit_mrm_2
+bailunit_mrm_3
+bailunit_mrm_4
+bailunit_mrm_5
+bailunit_mrm_6
+bailunit_nurse_1
+bailunit_nurse_2
+bailunit_nurse_3
+bailunit_nurse_4
+bailunit_nurse_5
+bailunit_nurse_6
+bailunit_ramraider_1
+bailunit_ramraider_2
+bailunit_ramraider_3
+bailunit_ramraider_4
+bailunit_ramraider_5
+bailunit_ramraider_6
+bailunit_sniper_1
+bailunit_sniper_2
+bailunit_sniper_3
+bailunit_sniper_4
+bailunit_sniper_5
+bailunit_sniper_6
+bank
+bannedFromChatUntil
+banned_from_chat
+bannerURL
+bar_9slice
+bar_9slice_blue
+bar_9slice_gold
+bar_9slice_highlight
+bar_9slice_highlight_blue
+bar_9slice_highlight_gold
+bar_9slice_highlight_silver
+bar_9slice_silver
+barracks
+barracks_needed
+barrel
+barrelSpritePrefix
+baseName
+baseResourcePath
+baseType
+battleData
+battleDateTime
+battleDirection
+battleIcon
+battleId
+battleId=
+battleLoot
+battleMaxPoints
+battleMinPoints
+battleMode
+battleSummary
+battleSummaryData is null
+battleTime
+battle_commands
+battle_direct
+battle_end_button
+battle_log
+battle_log_item
+battle_lost
+battle_mafia_wars_match
+battle_message
+battle_message_excellent
+battle_message_good
+battle_message_total_destruction
+battle_message_victory
+battle_request_reinforcements
+battle_revenge
+battle_singleplayer_missionsummary
+battle_skull_indicator
+battle_stream_replay
+battle_teachlesson
+battle_won
+bbvan
+bbvan_icon@unitConceptsAtlas
+bcl.DateTime
+bcl.Decimal
+bcl.Guid
+bcl.NetObjectProxy
+bcl.TimeSpan
+beard
+berserk_
+bestAttainedAttackPower1
+bestAttainedPower
+bestDestruction=
+best_raid
+bghighlight
+bigHeistEndDate
+bigHeistPrizes
+bigHeistTopPlayersToDividePrizesWith
+bigHeist_daysToMakePlayerScoreCount
+bigheist_location
+bigheist_prizes
+bigheist_season_ends_in
+bigheist_switch_hoods_confirm
+bigheist_you_are_in
+biker
+biker_
+biker_rage
+black
+blacklist_tip
+blockMapEdgeDeployment
+blockMapEdgeDeploymentChange
+block_player_confirm
+block_player_hint
+block_verb
+blocked
+blocked_info
+blocked_list
+blocked_player_item
+bo=
+bombDamage
+bool
+borderSize
+bottom
+bottom center
+bottom left
+bottom right
+bottomLeft
+bottomRight
+bottomText
+bottom_bar
+bottom_container
+bottom_left_text
+bottom_panel
+bottom_text
+bottom_text_dg
+box_height
+btn_action
+btn_back
+btn_blockedlist
+btn_change_flag
+btn_chat_close
+btn_chat_open
+btn_confirm
+btn_devicelink
+btn_discord
+btn_facebook
+btn_facebook_like
+btn_facebook_like_pixel_squad
+btn_fake_id
+btn_forums
+btn_language
+btn_later
+btn_music
+btn_new_device
+btn_next_colour
+btn_next_element
+btn_next_sprite
+btn_old_device
+btn_onlineindicator
+btn_prev_colour
+btn_prev_element
+btn_prev_sprite
+btn_privacy
+btn_public
+btn_quality
+btn_referrals
+btn_sfx
+btn_support
+btn_tvmode
+bubble
+bubbleText
+build
+build shop starts
+buildButton
+build_action
+build_club_message
+build_currency
+build_defensive
+build_extras
+build_or_upgrade
+build_production
+build_protection
+build_structures
+builder
+builderButtonPurchase
+builder_defense_
+builder_defense_1
+builder_defense_2
+builder_defense_3
+builder_defense_4
+builder_defense_5
+buildersButton
+buildersText
+buildinfo_latest_build_android
+buildinfo_latest_build_ios
+buildinfo_url_android
+buildinfo_url_ios
+building cannon
+building_co_all_busy_free
+building_co_all_free
+building_co_free
+building_co_purchase_more
+buildings1Atlas
+buildings2Atlas
+builds
+built
+bulk_move
+bullet
+bully
+bully_specific
+bundleId
+bundleVersion
+bunker
+button
+button_accept
+button_arenas
+button_background
+button_copy
+button_dispatch
+button_done
+button_drawcall
+button_edit
+button_hoods
+button_info
+button_reject
+button_removeall
+button_shadow
+button_switch
+button_use
+buyMultipleButton
+buySoftCurrency
+buySoftCurrency:
+buy_button
+bytes
+c
+c is null
+c4bomb
+cafeb_price
+callback
+callback is null! Will not run daily rewards.
+callbackType
+callback\" argument should not be null
+callback_id
+callerId
+callerId not found in callback
+camera_max_zoom
+cancel
+cancelDate
+cancelTraining
+cancel_button
+cancelled
+cannon
+cannon_Button
+cannonaccelerator_
+cannot create unit type '
+cannot_afford
+cannot_create_obstructed
+cannot_research_while_upgrading
+cannot_upgrade_high_command_not_found
+canswitch
+cant_deploy_here
+capacity
+caption
+car_horn
+carbomb
+carbomb_deploy
+carbomb_explode
+carbomb_icon@unitConceptsAtlas
+card_
+card_0
+card_badblue
+card_bottom
+card_buildings
+card_cash
+card_character
+card_character_noinfo
+card_expired
+card_gold
+card_henchmen
+card_top
+card_top_gold
+card_type
+carried_units_
+cashPercentageText
+cashText
+cashTopUpIcon
+cash_1000
+cash_10000
+cash_100000
+cash_1000000
+cash_4000000
+cash_production_bonus
+cb_opt_hint
+celebrityhost_
+celeste
+celeste_
+celeste_aura
+celeste_aura_active
+celeste_icon@unitConceptsAtlas
+celeste_power_aura
+celeste_power_aura_level
+celestialStatue
+celestial_statue
+center
+centerLeft
+centerRight
+centralControls
+centralText
+central_scrolling_panel
+centre
+challenge
+challengeId
+challenge_UpdatedChatroom
+challenge_not_original_player
+challenge_player_lost
+challenge_player_taken
+challenge_player_won
+challenge_text
+challenge_tip
+changeName
+channel group 
+channelUrl
+char
+character_overlay
+character_overlay_inner_left
+character_overlay_inner_right
+character_sprite
+character_sprite_dc
+character_take_hit
+chat
+chatCentralText
+chatClient is null
+chatMaxMessages_Default
+chatMaxMessages_Mafia
+chatMaxMessages_P2P
+chatMessageType
+chatMutedList
+chatOpenTabList
+chatTabButton
+chatTabsGrid
+chat_add_to_muted
+chat_add_to_open_tabs
+chat_large_panel
+chat_message
+chat_message_challenge
+chat_message_inverted
+chat_message_join_request
+chat_message_notify
+chat_message_replayshare
+chat_message_snitch_revenge
+chat_message_troop_request
+chat_messages
+chat_moderator_ban
+chat_nogroup
+chat_nomessages
+chat_panel_inner
+chat_remove_from_muted
+chat_remove_from_open_tabs
+chat_report
+chat_system_message
+chat_system_player_demoted
+chat_system_player_joined
+chat_system_player_kicked
+chat_system_player_left
+chat_system_player_promoted
+chat_system_player_watching_back
+chat_window
+checkbox_disabled
+checkbox_enabled
+checking_name_availability
+checksum
+chemist_
+chemist_1
+chemist_2
+chemist_3
+chemist_4
+chemist_5
+chemist_6
+chemist_7
+chopper
+chopper_falling
+chopper_icon@unitConceptsAtlas
+christmasTheme
+cityPlanner
+cityPlannerButton
+cityPlannerSelector
+city_number
+city_planner_selector
+cityplanner_copy
+cityplanner_edit_action
+cityplanner_import_main_city
+claimObjective
+claimObjectiveReward
+claimObjectiveReward:
+claim_button
+claim_key
+claim_video_ad_reward
+claimed
+claimedData
+claimedText
+class
+cleanText
+clearTrainingQueue
+clear_button
+clearedToStart
+client is null
+clientProvidedSummary
+clientSession is null
+clientTimeoutAndReloadMessageMinutes
+clipChildren
+cloak
+cloak_all
+cloak_all_buildings_for_you
+cloak_all_confirm
+cloak_all_remote_structures
+cloak_building_for_you
+cloak_confirm
+cloak_enhance_12h
+cloak_enhance_1d
+cloak_enhance_1h
+cloak_enhance_2d
+cloak_enhance_365d
+cloak_enhance_4d
+cloak_enhance_6h
+cloak_remote
+cloak_remote_structure
+cloak_structure
+cloak_tip
+cloak_with_item
+cloak_you_did_single
+cloakedStructures
+cloakedStructuresForOthers
+cloaked_lid
+cloaking
+cloakingExpiresOn
+cloaking_SingleStructureCost
+cloaking_Time
+close
+closeButton
+closeButtonDrawCall
+closeRewardsScreenButton
+closeSprite
+close_button
+club
+cluster_bomb
+cluster_bomb_beacon
+cluster_bombs
+clusterbomb
+clusterbomb_icon
+clusterbomb_single_explode
+clusterbomber
+code
+code_invalid
+code_valid
+collect
+collectResource
+collectResource:
+collect_badblue_1
+collect_badblue_2
+collect_badblue_3
+collect_cash_1
+collect_cash_2
+collect_cash_3
+collect_currency
+collect_prizes_from_vault
+collect_referral_reward
+collect_vault_contents
+collisionRadius
+color
+color_common
+color_epic
+color_fill
+color_legendary
+color_notorious
+color_rare
+color_superrare
+colors
+colour_a
+columns
+com.amazon.ags.api.unity.AchievementsClientProxyImpl
+com.amazon.ags.api.unity.AmazonGamesClientProxyImpl
+com.amazon.ags.api.unity.LeaderboardsClientProxyImpl
+com.amazon.ags.api.unity.PlayerClientProxyImpl
+com.amazon.ags.api.unity.WhispersyncClientProxyImpl
+com.facebook.unity.FB
+com.facebook.unity.editor.accesstoken
+com.fungameco.androidBillingV3.Plugin
+com.fungameco.applinks.AppLinks
+com.google.android.gms.ads.identifier.AdvertisingIdClient
+com.kskkbys.unitygcmplugin.UnityGCMRegister
+com.kskkbys.unitygcmplugin.UnityLocalNotification
+com.kskkbys.unitygcmplugin.Util
+com.unity3d.player.UnityPlayer
+combination
+combine_equals
+combine_plus
+commandList is null
+common
+completed
+completedTutorial
+concepts1Drawcall
+condition
+conditionNumber
+config is null!
+confirm
+confirmRetreat
+confirm_button
+confirm_buy_item
+confirm_clear_training_queue
+confirm_collect_referral_reward
+confirm_copy_over
+confirm_end_battle_now
+confirm_exit_game
+confirm_forge
+confirm_regenerate_hero
+confirm_retreat
+confirm_sell_all_items
+confirm_sell_item
+confirm_use_all_items
+confirm_use_layout
+connection
+connectionError
+connection_indicator
+connection_level_1
+constructType
+construction_complete
+container
+contains
+contamination_
+content_description
+content_title
+content_url
+continue
+continue_button
+control is null
+controls
+convert
+convert_description
+convert_hustler_1
+convert_hustler_2
+convert_hustler_3
+convert_hustler_4
+convert_hustler_5
+convert_hustler_6
+convert_mrm_1
+convert_mrm_2
+convert_mrm_3
+convert_mrm_4
+convert_mrm_5
+convert_mrm_6
+convert_sniper_1
+convert_sniper_2
+convert_sniper_3
+convert_sniper_4
+convert_sniper_5
+convert_sniper_6
+cookie
+cooldown
+cooldown_time
+cooldown_time_left
+cop raid started
+cop_siren_intro
+copcar
+copied_referral_to_clipboard
+cops killed
+copy
+copyToGameStateId
+copy_button
+copy_town
+corruptcashier_
+cost
+costGrid_Item
+costGrid_amount
+costGrid_type
+costToBuildOrUpgrade
+costToRearm
+costToRearmNow
+cost_create_alliance
+cost_items
+cost_to_hire
+count
+counterintelligence
+counterintelligence_
+counterintelligence_1
+counterintelligence_2
+counterintelligence_3
+counterintelligence_4
+counterintelligence_5
+counterintelligence_6
+counterintelligence_7
+countryCode
+courier
+courierInventoryId
+create
+createButton
+createEffect
+createRandomRemovable
+create_alliance_name
+create_mafia_build_night_club
+crewCardsUsed
+cropLeftPartOfTextToParent
+cross
+crystals
+crystals_needed_for_build
+crystals_needed_for_upgrade
+ctor
+currIndex < lowIndex
+currIndex > highIndex
+currency
+currency0Left
+currency1Left
+currencyA
+currencyACost
+currencyATaken
+currencyAmount
+currencyB
+currencyBCost
+currencyBTaken
+currencyIcon
+currencyOfferWindow
+currencyPCost
+currencyPrize
+currencySprite
+currencySummary
+currencyText
+currencyType
+currency_
+currency_icon
+currency_reward
+currentActivity
+currentDeviceIndex
+currentObjective
+currentObjectiveId
+currentScreen.LateUpdate()
+currentScreen.Update()
+currentSpecialOffer
+currentWar
+currentWarPlayerMafiaEnrolled
+customTexture
+custom_avatar
+custom_button
+cyclesPerShot
+d
+d 
+d is null
+damage
+damagePerAttack
+damagePerSecond
+damage_bonus
+damage_missile
+damage_missile_radius
+damage_per_second
+damage_total
+dance
+data
+data is null
+dataEntryPage
+dataToEncrypt = null
+dateFirstPlayed
+dateLastSharedOnSocial
+dateObtained
+dateTimeStarted
+days
+daysToBan
+dd-MM-yyyy_HH-mm-ss
+deObject is null
+dealer_icon@unitConceptsAtlas
+debugGiveCurrency
+debug_marker
+debug_tile
+declaredType
+decoy
+decoyne
+decoynw
+decoyse
+decoysw
+decrement
+deductCurrencyForAttack
+deductKilledTroops
+deductKilledTroopsChange
+deed_text
+defaultValue
+default_server_prefix
+defenderGroupId
+defenderGroupName
+defenderId
+defenderName
+defendersPower
+defense
+defensesWon
+defensiveTabButton
+del is null
+delete
+deliveredPurchases
+demexp
+deployPoint
+deployReinforcements
+deployableArea
+deployarea_c
+deployarea_nw
+deployarea_s
+deployarea_w
+deployed cop car
+deployed units
+deploymentAudioId
+deploymentEffect
+derHammer
+derHammer_TrainButton
+derHammer_unitSelectionBar
+derivedType
+descData is null
+description
+descriptionTextId
+descriptor is null
+descriptor is null!
+deserialization error: b != 1
+dest
+destinationIndex
+destroy
+destroyed
+destruction
+destructionExplosionHitpoints
+destructionExplosionRadius
+destructionText
+detached_limbs
+deviceId
+deviceLanguage
+deviceModel
+deviceToken
+diagnosticswindow
+did_complete
+did_snitch
+die
+dieAudioId
+difficultyTweak_Level5Buildings
+difficultyTweak_LevelMaxBuildings
+directPlayerAttack
+disableChatReporting
+disableClipping
+disableTutorials
+disabled
+disabledControlId
+discord_joined
+dispatch_units
+disperse
+display
+displayHealthBar
+displayLevelInInfo
+displayNeedMoreCrystalsPopUp
+display_order
+disqualifiedFromWar
+distributedAmongTopPlayers
+do
+donate_text
+donatedTroops
+done
+dontPlayAudio
+dont_show_this_again_checkbox
+double
+doubleBuffer
+double_column_grid
+double_column_grid_spacer
+down
+downControlId
+downgradeAll
+downgradeWalls
+downgrade_tech
+drawCallControlId
+drawCallControlId or atlasId are null.
+drawcall
+dropShadow
+dropShadowOffset
+ds_floor_back
+ds_floor_front
+e
+early_rewards
+earned_gold_from_referral
+edit
+editIconContents
+editIcon_Colour
+editIcon_Item
+editIcon_Item_Colour
+edit_action
+edit_action_single
+edit_item_
+electricShockDrawCall
+electric_shock_0
+electric_shock_1
+electric_tower_attack
+email
+embassy
+empty
+empty_container
+en-US
+en_US
+enableClipping
+enableCrossPlatformReplaySynchronization
+enableIncentivizedTwitterAndFBLikes
+enableParty
+enableRatingRequestWindow
+enableSnitching
+enabled
+encodedReceiptData
+endBattleForcefully
+endDate
+ensure_buildings_connected
+enter_link_code
+enter_name
+enter_new_name
+enter_promo_code_force_text
+enter_referral_or_promo_code
+enum 
+enumType
+equipFortifies
+equip_item
+error
+errorMessage
+error_joining_alliance
+error_leaving_alliance
+error_message_id
+error_message_text_id
+error_updating_game_data
+eventId
+eventReceived
+exceeded_number_of_structures
+exclude_ids
+exit
+expirationTime
+expiration_timestamp
+expiresIn
+expiryDate
+expiryDate=
+explodeWhenDestroyed
+explosion
+extra
+extraKerning
+extra_builder
+extra_building_co_max_reached
+extractorLifeForce
+extractorMetalOre
+extractorPopUpDrawCall
+extractorSilver
+extractorSilver_Button
+extras
+extrasTabButton
+extrastaff_
+eyes
+eyes_colors_0
+face
+face_colors_0
+facebook_button
+facebook_liked
+facebook_login
+facebook_login_overwrite
+facebook_login_overwrite_error
+facebook_login_warning
+factory
+failed removing item from inventory
+fakeId
+fake_id_title
+falling_smoke
+false
+fbId
+fb_content_id
+fb_content_type
+fb_currency
+fb_description
+fb_level
+fb_login
+fb_max_rating_value
+fb_mobile_achievement_unlocked
+fb_mobile_activate_app
+fb_mobile_add_payment_info
+fb_mobile_add_to_cart
+fb_mobile_add_to_wishlist
+fb_mobile_complete_registration
+fb_mobile_content_view
+fb_mobile_initiated_checkout
+fb_mobile_level_achieved
+fb_mobile_purchase
+fb_mobile_rate
+fb_mobile_search
+fb_mobile_spent_credits
+fb_mobile_tutorial_completion
+fb_num_items
+fb_payment_info_available
+fb_reassign
+fb_registration_method
+fb_search_string
+fb_success
+featureUsage
+feed
+feedback@pixelsquad.net
+fetchReinforcementsData
+fieldNumber
+fill
+fillCurrencyStorage
+fillSpritePrefix
+fillStorage
+fill_10
+fill_100
+fill_50
+filters
+finalFrame
+finalised
+findTarget is null
+finish
+finishNowButton
+finishResearch
+finishTrainingNow
+finishUpgrade
+finish_now_button
+finish_upgrade
+finish_upgrade_confirm
+fire_henchman
+fired_henchman
+firstname_gold
+firstname_iron
+firstname_silver
+fitChildren
+fitToParentWidth
+fixed32
+fixed64
+flames
+flash
+flat_white
+flip
+flipUVsHorizontally
+flipUVsVertically
+float
+floorDestroyed
+floorHealthy
+flush
+fly
+focus=
+fontId
+fontSize
+fonts
+fontsize
+forClusterBomb
+forType
+forceCase
+forceLeaveDefendingUnits
+forceLeaveDefendingUnitsChange
+forceMaterial
+forceShader
+forceShowInventory
+forcedowngrade
+forcesdeployer
+forcesdeployer_unitSelectionBar
+forceupgrade
+forge
+forge_item
+forge_items
+forge_mansion_level
+forge_navigation
+forged_item
+formattedName
+fortify_
+forward_button
+found_badblue
+found_cash
+found_gold
+free
+frictionlessRequests
+friendIds
+friends
+fromTime
+frontsprite
+fulfillmentResult
+fullScreenButton
+g
+game
+gameObject or group are null
+gameOfflineMode
+gameSettings_new
+gameState
+gameState is null
+gameStateId
+gameStateIdA
+gameStateIdB
+gameStateIdSnitchedOn
+gameStateIdToActOn
+gameStateIdToBan
+gameStateIdToTakeRevengeOn
+gameStats
+gameVersion
+game_antiairtrap_becamevisible
+game_builder_build
+game_c4_bomb_explode
+game_cannon_fire
+game_cop_siren
+game_current_language
+game_defstructure_deployed
+game_defstructure_quickdeploy
+game_demexp_plantbomb
+game_grenade_explode
+game_group_create
+game_group_join
+game_guard_tower_shoot
+game_jaws_becamevisible
+game_jaws_close
+game_logo_maysalward
+game_lowrider_start
+game_machine_gun_fire
+game_mine_becamevisible
+game_mine_explode
+game_missile_explode
+game_missile_launch
+game_missile_position_selected
+game_mortar_explode
+game_mortar_fire
+game_name
+game_special_attack_start
+game_stats
+game_structure_destroyed_
+game_sylvester_special
+game_training_complete
+game_unit_destroyed
+game_vehicle_brake
+game_vehicle_destroyed
+game_vehicle_start
+gamestate_has_active_shield
+garage
+garage_level_n_required
+gcDeviceGuid
+get
+getAdvertisingIdInfo
+getCloudValue
+getGameData
+getId
+getInstance
+getMaxSize
+getMetadata
+getProductDataResponse
+getPurchaseUpdatesResponse
+getRegisterOnServerLifespan
+getRegistrationId
+getSpecified
+getStatusString
+getText
+getTimestamp
+getUserDataResponse
+getValue
+getValues
+get_group_messages
+get_next_random_battle_id
+get_p2p_messages
+get_public_messages
+giveCurrency
+giveGoldToAllPlayers_Version
+giveSpecialCurrency
+give_item_effect
+give_prize_0
+give_prize_1
+give_prize_2
+global
+go
+gold
+goldDug
+goldGauge
+goldSecret
+goldSecretAwarded
+goldSecret_GoldAmount
+gold_1
+gold_100
+gold_1000
+gold_1250
+gold_2
+gold_20
+gold_5
+gold_500
+gold_amount
+gold_production_bonus
+gold_secret
+gold_secret_step_0
+gold_secret_step_1
+gold_secret_step_2
+golden_key_available
+googleplay_publickey
+goons_donated
+goons_received
+gotAway
+got_away
+got_caught
+got_snitched_on
+grantedScopes
+grenade
+grenadier
+grid
+grid is null
+groundCircle
+group 
+groupId
+groupIdDateJoined
+groupInfo
+groupMemberCount_
+groupName
+groupName_
+groupStatus
+group_accept_join_request
+group_change_info
+group_chat
+group_chat_lastread_message
+group_create
+group_demote
+group_forceassign
+group_get_suggested_mafias
+group_getdata
+group_info_changed
+group_join
+group_kick
+group_leave
+group_name_available
+group_promote
+group_reject_join_request
+group_search
+group_snitch_on_player
+group_snitch_revenge
+group_stop_watching_back
+group_topgroups1
+group_unprotect
+group_watch_players_back
+guardtower
+guardtoweraccelerator_
+h
+h 
+hair
+handler already has an owner!
+handlers
+hasMore
+hasNext
+hasOrderBeenDelivered == null!!!!
+hasShield
+hatch
+hatch_a_closed
+hatch_a_open
+healed_
+healingPerCycle
+healingPerSecond
+healing_aura_level
+healthbar is null!
+height
+heightDeduction
+helipad
+hellfire_
+henchManIcon
+henchman
+henchmanHired
+henchmanId
+henchmanTutorialComplete
+henchmanUnlockedIcon
+henchman_
+henchman_biker_icon@unitConceptsAtlas
+henchman_current
+henchman_fire
+henchman_fire_confirm
+henchman_fired
+henchman_found_in_town
+henchman_hire_new
+henchman_inspector_jones_name_button
+henchman_italian_mafia_icon
+henchman_unlocked
+henchman_whereabouts_unknown
+henchmaninfo_unlock_units
+henchmen
+henchmenButton
+henchmen_description
+henchmen_none_hired
+heroRegenerate
+hero_biker
+hero_celeste
+hero_jessie
+hero_level_overlay
+hero_sylvester
+heroweapon_armorpiercingpellets_1
+heroweapon_armorpiercingpellets_2
+heroweapon_armorpiercingpellets_3
+heroweapon_armorpiercingpellets_4
+heroweapon_armorpiercingpellets_5
+heroweapon_armorpiercingpellets_6
+heroweapon_badbluepellets_1
+heroweapon_badbluepellets_2
+heroweapon_badbluepellets_3
+heroweapon_badbluepellets_4
+heroweapon_badbluepellets_5
+heroweapon_badbluepellets_6
+heroweapon_masamune_1
+heroweapon_masamune_2
+heroweapon_masamune_3
+heroweapon_masamune_4
+heroweapon_masamune_5
+heroweapon_masamune_6
+heroweapon_muramasa_1
+heroweapon_muramasa_2
+heroweapon_muramasa_3
+heroweapon_muramasa_4
+heroweapon_muramasa_5
+heroweapon_muramasa_6
+hide
+highCommand
+high_command_upgrade_required
+high_quality
+highlight
+highlights
+hint
+hint_
+hint_35
+hire
+hireHenchman
+hireHenchman_
+hire_henchman
+hire_henchman_button
+hired_henchman
+hitPoints
+hitPoints=
+hit_points
+hoarding_NS
+hoarding_WE
+hoarding_corner_CE
+hoarding_corner_CN
+hoarding_corner_CS
+hoarding_corner_CW
+home
+homeButtonContents
+honourButton
+honourIconSprite
+honourPanel
+honourText
+hood
+hoodId
+horizontal_list_grid
+horizontal_scrolling_list
+house
+house == null || house.world == null || unit == null
+houseId
+house_party
+housedUnit is null
+housedUnits
+housedUnits follows:\n
+housingButton
+housingSpace
+housingText
+housing_space
+housing_space_bonus
+housing_space_not_enough
+housing_space_total
+housing_space_used
+housing_space_world
+hpd
+http://
+http://ccdev0.cloudapp.net/
+http://www.crimecoast.com/?page_id=36
+http://www.crimecoastforums.com/
+https://connect.facebook.net
+https://discord.gg/4eV5xve
+https://graph.facebook.com
+https://s3.amazonaws.com/www.crimecoast.com/flags/
+https://twitter.com/crimecoast
+https://www.facebook.com/crimecoast
+https://www.facebook.com/pixelsquad.net/
+hudLeftPanel
+hudRightPanel
+hudTopUpCurrency
+hutch
+hutch_Button
+i
+iapPostfix
+iap_id
+icon
+iconButton
+iconContainer
+iconDescriptor
+iconDescriptorData
+iconDrawCall
+iconElementUnlocked_
+iconName
+iconOffset
+iconSprite
+iconSpriteId
+iconXOffset
+icon_again
+icon_alarmsystem@unitConcepts1Atlas
+icon_armorpiercingpellets@unitConcepts1Atlas
+icon_badblue
+icon_badblue@UI0Atlas
+icon_badblue_collect
+icon_badblue_fill_100pc
+icon_badblue_fill_10pc
+icon_badblue_fill_50pc
+icon_badblue_horizontal
+icon_badbluepellets@unitConcepts1Atlas
+icon_bailout
+icon_battleincoming
+icon_battleoutgoing
+icon_berserk@unitConcepts1Atlas
+icon_border
+icon_build
+icon_builder@unitConcepts1Atlas
+icon_builders@UI0Atlas
+icon_bully@unitConcepts1Atlas
+icon_bully_specific@unitConcepts1Atlas
+icon_cannonaccelerator@unitConcepts1Atlas
+icon_cash
+icon_cash@UI0Atlas
+icon_cash_collect
+icon_cash_fill_100pc
+icon_cash_fill_10pc
+icon_cash_fill_50pc
+icon_cash_horizontal
+icon_celebrityhost@unitConcepts1Atlas
+icon_chemist@unitConcepts1Atlas
+icon_cloak
+icon_cloak@unitConcepts1Atlas
+icon_cloak_all
+icon_cloak_all@unitConcepts1Atlas
+icon_cloak_enhance@unitConcepts1Atlas
+icon_close
+icon_connection_collect
+icon_container
+icon_contamination@unitConcepts1Atlas
+icon_corruptcashier@unitConcepts1Atlas
+icon_counterintelligence
+icon_counterintelligence@UI1Atlas
+icon_courier@unitConcepts1Atlas
+icon_crown
+icon_crystals_iap_4
+icon_defend
+icon_editor_icon
+icon_enter_full_screen
+icon_exit_full_screen
+icon_extrastaff@unitConcepts1Atlas
+icon_fortify_building@UI1Atlas
+icon_gold
+icon_gold@UI0Atlas
+icon_gold_horizontal
+icon_guardtoweraccelerator@unitConcepts1Atlas
+icon_hellfire@unitConcepts1Atlas
+icon_henchman
+icon_home
+icon_info
+icon_insideagent
+icon_insideagent@UI1Atlas
+icon_inventory
+icon_key_gold@unitConcepts1Atlas
+icon_key_iron@unitConcepts1Atlas
+icon_key_silver@unitConcepts1Atlas
+icon_left
+icon_mafia
+icon_mafiawars
+icon_masamune@unitConcepts1Atlas
+icon_masssquatting@unitConcepts1Atlas
+icon_mortaraccelerator@unitConcepts1Atlas
+icon_multipleselect_horizontal
+icon_multipleselect_vertical
+icon_muramasa@unitConcepts1Atlas
+icon_neighborhoodwatch@unitConcepts1Atlas
+icon_order_vehicle
+icon_overcrowdedprison@unitConcepts1Atlas
+icon_overload@unitConcepts1Atlas
+icon_overtime@unitConcepts1Atlas
+icon_party_everywhere_ticket@UI1Atlas
+icon_party_ticket
+icon_party_ticket@unitConcepts1Atlas
+icon_protection
+icon_protection@UI2Atlas
+icon_rearm
+icon_rearm_all
+icon_rearm_missile_silo
+icon_reputation
+icon_research
+icon_right
+icon_rotate
+icon_select_all
+icon_speed_up
+icon_speedup
+icon_speedup@UI0Atlas
+icon_sprite
+icon_trooprequest
+icon_unguard
+icon_upgrade
+icon_vault
+icon_watch_video_ad
+id
+id=
+idle
+ignoreConnectivity
+image_container
+importFromOtherGameState
+import_layout_offer
+inAppPurchase
+inConflict
+in_use
+includeOnlineStatus
+incomingMatch_
+increment
+incrementalAutoRepeat
+index
+info
+info is null
+info.forceShader - couldn't find shader 
+infoRightPanelHighlightText
+info_bottom_text
+info_button
+inheritZOffset
+init
+inner
+innerGrid
+innerId
+innerTextDrawCall
+innerUVs
+inner_button
+inner_elements
+inner_sprite
+innermost_grid
+input
+input name start
+inputText
+inside_agent_
+inside_agent_1
+inside_agent_2
+inside_agent_3
+inside_agent_4
+inside_agent_5
+inside_agent_6
+inside_agent_7
+inside_agent_8
+inside_agent_9
+instance
+int32
+int64
+interactionPriority
+internalTitle
+interval
+intervalToCreateNewDevice
+intro
+introScore
+intro_enable
+intro_screenfade_in
+intro_skip_button
+intro_text_0
+intro_text_1
+intro_text_10
+intro_text_2
+intro_text_3
+intro_text_4
+intro_text_5
+intro_text_6
+intro_text_6a
+intro_text_7
+intro_text_8
+intro_text_9
+intro_van_break
+intro_van_nitro
+invalid
+invalid delegate
+invalid gameStateId
+invalid name:  '
+invalid params: atlasId=
+invalid serverRequest!
+invalid_alliance_name
+invalid_name
+invalid_object
+invalid_player_name
+invalid_referral_code
+inventory
+inventoryButton
+inventoryId
+inventory_contents
+inventory_window
+invisible_button
+iron
+iron_key_available
+isAmazonStoreVersion=
+isBullySpecific
+isChatModerator
+isLimitAdTrackingEnabled
+isPlayerList
+isPlayersFirstSession
+isRegistered
+isRegisteredOnServer
+isRevenge
+isSet
+isShowdownRaid
+isSignedIn
+is_achievement
+iso_code
+item
+item is null
+item is null at (0)
+itemData
+itemDescription
+itemId=
+itemName
+itemQuantity_
+itemSlots
+itemTypeId
+itemTypeId == null
+itemTypeId don't match!
+itemTypeIds don't match!
+item_
+item_airpatrol_descr
+item_airpatrol_title
+item_alarmsystem_descr
+item_alarmsystem_title
+item_background
+item_background_common
+item_background_epic
+item_background_greystars
+item_background_legendary
+item_background_rare
+item_background_supergreen
+item_background_superrare
+item_background_timerelated
+item_berserk_descr
+item_berserk_title
+item_builder_defense_descr
+item_builder_defense_title
+item_bully_specific_title
+item_bully_title
+item_button
+item_cannonaccelerator_descr
+item_cannonaccelerator_title
+item_celebrityhost_descr
+item_celebrityhost_title
+item_chemist_descr
+item_chemist_title
+item_cloak_enhance_description
+item_cloak_enhance_title
+item_contamination_descr
+item_contamination_title
+item_corruptcashier_descr
+item_corruptcashier_title
+item_counterintelligence_descr
+item_counterintelligence_title
+item_courier_title
+item_currency_description
+item_currency_title
+item_extra_builder_description
+item_extrastaff_descr
+item_extrastaff_title
+item_fortify_descr
+item_fortify_title
+item_guardtoweraccelerator_descr
+item_guardtoweraccelerator_title
+item_hellfire_descr
+item_hellfire_title
+item_hero_biker_title
+item_id
+item_info
+item_info_purchase_item
+item_info_purchase_key
+item_info_sell_all_items
+item_info_sell_item
+item_insideagent_descr
+item_insideagent_title
+item_masssquatting_descr
+item_masssquatting_title
+item_mortaraccelerator_descr
+item_mortaraccelerator_title
+item_neighborhoodwatch_descr
+item_neighborhoodwatch_title
+item_overcrowdedprison_descr
+item_overcrowdedprison_title
+item_overload_descr
+item_overload_title
+item_overtime_descr
+item_overtime_title
+item_party_enhance_description
+item_party_enhance_title
+item_protection_descr
+item_protection_title
+item_quantity
+item_sent
+item_slot
+item_slots
+item_sold
+item_speedup_description
+item_speedup_title
+items
+items is null!
+items.Length != 2
+itemsGrid
+items_in_use
+iterator
+jackhammer_icon@unitConceptsAtlas
+java.lang.String
+java.util.HashMap
+jessie
+jessie_
+jessie_icon@unitConceptsAtlas
+jessie_power_fist
+jessie_power_fist_level
+jessie_power_punch_impact
+jessie_power_punch_pre
+jessie_powerpunch
+join
+joinRequestId
+join_a_mafia
+join_group
+join_mafia_build_night_club
+join_mafia_war
+join_player_approved_by
+join_player_confirm_approval
+join_player_confirm_disaproval
+join_player_rejected_by
+join_player_would_like
+join_request_already_sent
+join_request_sent
+join_showdown
+join_you_were_accepted
+jp.ne.donuts.uniclipboard.Clipboard
+just now
+justJoined
+k__BackingField
+keepWithinView
+kerbsContainer
+kerning
+key
+keyInterval_Gold
+keyInterval_Iron
+keyInterval_Silver
+keyPrice_Gold
+keyPrice_Iron
+keyPrice_Silver
+keyProbabilities_0Iron
+keyProbabilities_1Silver
+keyProbabilities_2Gold
+keySet
+key_container_gold
+key_container_iron
+key_container_silver
+key_gold
+key_gold_buttonpanel
+key_gold_hands
+key_iron
+key_iron_buttonpanel
+key_iron_hands
+key_silver
+key_silver_buttonpanel
+key_silver_hands
+key_super_rare
+keys
+kick
+kick_player_confirm
+kicked
+kicked_got
+kicked_player
+killAttackingUnits
+killedAttackingHousedUnits
+killedDefendingHousedUnits
+killedHousedUnits
+killedUnitPositions
+killedUnitPositions_
+knownType
+knownTypeName
+l
+l=
+l_
+lab
+lab_explode
+label
+label_playermessage
+landscape
+language
+language_arabic
+language_english
+language_french
+language_german
+language_italian
+language_persian
+language_polish
+language_portuguese
+language_russian
+language_spanish
+largeCleanText
+largeText
+lastCaughtSnitching
+lastCommandTime
+lastCycle
+lastDownloadedSpreadsheetCRC
+lastFixedStructureId
+lastId
+lastInventoryId
+lastKnownLeaderboardPosition
+lastLiveBattleFrameReceived
+lastMansionLevelSuperiorCardGiven
+lastNotifiedRound
+lastReadNewsMessage
+lastRecordedLevelUp
+lastRemovableGiven
+lastReplaySharedDate
+lastSeenBattleId
+lastSentDeviceToken
+lastSentId
+lastSnitchGotAway
+lastSnitchedDate_
+lastSpecialOfferId
+lastTimeSnitched
+lastTroopRequestTime
+lastVideoAdSeen
+later
+lawOffice
+lawOffice_Button
+layoutIndex
+leaderGameStateId
+leaderName
+leaderboard
+leaderboardDisplayText
+leaderboardId
+leaderboardImageUrl
+leaderboardName
+leaderboardPosition
+leaderboardScoreFormat
+leaderboardStatue
+leaderboard\" argument should not be null
+leaderboard_statue_short
+leaderboards
+leaderboardsButton
+leagueId
+league_
+league_icon
+league_name
+league_required_power
+leave
+leave_alliance
+left
+left bottom
+left top
+left_grid
+left_panel
+left_slow
+length
+level
+level=
+levelId
+levelUp
+level_
+level_lower
+level_n
+level_n_abbreviated
+level_text
+level_title
+lidSpriteId
+life_force
+life_force_short
+light
+light_blue_on
+light_orange_on
+light_red_on
+limit_reached
+link
+linkCaption
+linkCode
+linkDescription
+linkDeviceMenu
+linkDeviceMenu_Confirm
+linkDeviceMenu_Main
+linkDeviceMenu_NewDevice
+linkDeviceMenu_OldDevice
+linkDeviceMenu_PleaseWait
+linkDeviceMenu_TimerExpired
+linkName
+link_a_device
+link_account_details
+link_leave_screen
+link_warning
+link_warning_1
+liveBattle
+liveBattleFrame
+liveBattleFrame_
+liveText
+live_raid
+loadScreen 
+load_intro
+loading
+local
+localChatSessionId
+localTime
+local_leaderboard
+local_order_
+localtab
+lock
+locked
+logEvent
+logPurchase
+logged_in
+logged_out
+logging
+logo
+logo_arabic
+loop
+lootPanel
+loot_amount
+loss
+lowRiderMuzzleFlash
+lower
+lowerText
+lowergrid
+lowrider
+lowrider_machine_gun_smoke
+lowrider_missile_power
+m
+m 
+m_w
+m_z
+machinegun
+mafia
+mafiaEditContents
+mafiaInfo
+mafiaInfoButton
+mafiaInfoTopBar
+mafiaName
+mafiaPower
+mafiaReputationGain
+mafiaSkulls
+mafiaWarDefenseWon
+mafiaWarRaidWon
+mafiaWarsAttacksWon
+mafiaWarsButton
+mafiaWarsButtonLarge
+mafiaWarsDefensesWon
+mafiaWarsFlameEffect
+mafiaWarsMatchId
+mafiaWars_Ellipse
+mafiaWars_LeagueHeader
+mafiaWars_MafiaItem
+mafiaWars_MafiaItem_Highlighted
+mafiaWars_MafiaPlayer
+mafiaWars_MafiaPlayer_Highlighted
+mafiaWars_MafiaPlayer_Join_Mafia
+mafiaWars_MafiaPlayer_RaidStatus
+mafiaWars_MafiaPlayer_RaidStatus_Header
+mafiaWars_MafiaView_MafiaHeader
+mafiaWars_Match
+mafiaWars_MatchArrow_Left
+mafiaWars_MatchArrow_Placeholder
+mafiaWars_MatchArrow_Right
+mafiaWars_Match_AttackAnimation
+mafiaWars_Match_TargetAnimation
+mafiaWars_Prize
+mafiaWars_Prizes_Title
+mafiaWars_RecentMatches
+mafiaWars_RecentMatches_Header
+mafiaWars_Weapons
+mafiaWars_groupSizePenaltyMultiplier
+mafiaWars_maxDefensePoints
+mafiaWars_maxVictoryPoints
+mafia_a_name
+mafia_action
+mafia_b_name
+mafia_create
+mafia_id
+mafia_info
+mafia_list_item
+mafia_member
+mafia_name
+mafia_power
+mafia_symbol
+mafia_wars_a_out_of_b_raids
+mafia_wars_attacks_won
+mafia_wars_battle_in_progress
+mafia_wars_defenses_won
+mafia_wars_do_next_raid
+mafia_wars_enter_war
+mafia_wars_failed_min_players
+mafia_wars_getlivebattleframe
+mafia_wars_join_a_mafia_to_compete
+mafia_wars_join_tip
+mafia_wars_joined
+mafia_wars_joinnextglobalwar
+mafia_wars_leaguedata
+mafia_wars_mafiadata
+mafia_wars_next_war_starts_in
+mafia_wars_not_high_enough_to_join
+mafia_wars_overview
+mafia_wars_prize_minpoints
+mafia_wars_prize_raids_done
+mafia_wars_prize_topmafias
+mafia_wars_recentmatches
+mafia_wars_round_last_in_progress
+mafia_wars_round_n_in_progress_1
+mafia_wars_round_n_in_progress_2
+mafia_wars_war_ends_in
+mafia_wars_war_is_over
+mafia_wars_you_have_completed_all_raids
+mafia_wars_you_have_joined
+mafia_wars_you_next_raid_unlocks_in_round
+mafia_wars_your_mafia_has_joined_next
+mafia_wars_yourleague
+mafia_wars_yourmafia
+mafia_wars_yourraids
+mafiawar
+mafiawars_spacer
+mailto:
+mainText
+maintenance
+maintenanceMode
+makeup
+makeup_colors_0
+mansion
+mansion upgraded
+mansionLevel
+mansion_l_n_required
+mansion_level
+mansion_level_reward
+mansion_required_for_crews
+map1DrawCall
+mapDrawCall
+markAsResolved
+marketPlace
+marketplace
+masamune
+masamune_description
+masssquatting_
+masssquatting_1
+masssquatting_10
+masssquatting_11
+masssquatting_2
+masssquatting_3
+matchId
+matchId=
+matchId_
+match_
+match_battleId_
+match_container_
+matchesPerMafia
+matchmaking_changes
+materialPath
+maxActiveDevices
+maxAward
+maxBadBlue
+maxCash
+maxCount
+maxHitpoints
+maxIconWidth
+maxLevel
+maxPlayersPerGroup
+maxSkulls
+maxSkullsIcon
+maxStorage
+max_gamestateid
+max_level_already_reached
+max_level_reached_training
+max_purchases
+max_quantity_reached
+max_recipients
+max_reward_reached
+max_value
+mediaSource
+medic
+mediumCleanText
+mediumText
+member
+memberName
+memberNames
+memberType
+member_since
+members
+message
+message 
+message cannot be null or empty!
+message.messageData is null
+messageData
+messageData is null!
+messageType
+messageType is null! Message=
+metaType
+metadata
+meterA
+meterB
+meterText
+method
+methodInfo = null
+minAward
+minHeight
+minMafiaSize
+minMansionLevelForCardAward
+minMansionLevelForGoldTimer
+minMaxSkulls
+minNumberOfPlayers
+minSkulls
+minSkullsIcon
+minWidth
+min_gamestateid
+min_purchases
+mini_nuke
+minimumScoreToBuildStatues
+minimumSupportedClientVersion
+misc
+missile
+missileDamage
+missile_explode_effect
+missile_silo
+mock extra key
+mock extra value
+mock ref
+mocktargeturl://mocktarget.url
+mockurl://testing.url
+model
+moderator_ban
+moderator_ban_days
+moderator_ban_for_days
+moderator_ban_title
+momentumFactor
+monumentState
+monument_already_acquired
+mortar
+mortaraccelerator_
+move
+moveOffroadExitSoundId
+moveOffroadSoundId
+moveStructure
+multi_currency
+multipart/form-data; boundary=\"
+multiplayer
+multipleRaidResultsHeader
+multiplyAndAddByValue
+multiplyByMansionLevel
+muramasa
+muramasa_description
+music
+music_battle
+music_battle_1
+music_home
+music_instant_attacked
+music_level_select
+music_mafia_wars
+music_party
+music_raid_loss_stinger
+music_raid_victory_stinger
+music_reinforcements_arrived
+music_reward_jingle_0
+music_reward_jingle_1
+music_reward_jingle_2
+mustUpdate
+muzzleFlashScale
+muzzleFlashSprite
+mw_arrow_left
+mw_rule
+mw_rule_0
+mw_rule_1
+mw_rule_2
+mw_rule_number
+mw_rulespane
+my@friendsadress.com
+name
+name entered!
+nameTextId
+navigationButtons
+ne
+need_lifeforce_storage
+needsInventoryUpdate=
+needs_prison_upgrade
+neighborhoodwatch_1
+neighborhoodwatch_2
+neighborhoodwatch_3
+neighborhoodwatch_30
+neighborhoodwatch_4
+neighborhoodwatch_5
+neighborhoodwatch_6
+neighborhoodwatch_7
+network_power
+network_size
+newStructureHitpoints
+newUser
+new_alliance
+new_avatar_set
+new_battle_singleplayer
+new_bigheist_raid
+new_game
+new_multiplayer_raid
+new_version_d
+new_version_dont_force
+new_version_t
+news
+newsButton
+newsTab
+news_
+news_feed_item
+next
+nextButton
+nextGoldenKey
+nextIronKey
+nextRegenerationTime
+nextReplayCountdown
+nextSilverKey
+nextWar
+nextWarPlayerMafiaEnrolled
+next_replay_starts_in
+next_reward
+niceNameTextId
+nineslice
+nn_percent_more_exclamation
+no
+no controls defined in xml=
+noCentralRectangle
+noValidTarget
+no_housing_space_left
+no_info_set
+no_key_error
+no_key_for_safe
+no_mafia
+no_name_set
+no_research_in_progress
+no_search_results
+no_space_for_extra_building_co
+no_target_message
+no_target_message_update
+no_target_title
+node not contained in parent's children!
+none
+normal
+normalControlId
+not_enough_builders
+not_enough_cash_fake_id
+not_enough_crystals
+not_enough_crystals_for_training
+not_enough_currency_a
+not_enough_funds
+not_enough_gold_buy_more
+not_enough_life_force
+not_enough_space_for_currency
+not_enough_storage
+not_possible_to_finish_training_now
+not_researching
+notice_lower_version
+notification_return_day1
+notification_return_day2
+notification_return_day3
+notification_return_day7
+notifiedObjectiveComplete
+null
+null data returned
+null response
+nullDataReturned
+numberOfTimesNameSet
+number_
+nurse_icon@unitConceptsAtlas
+nw
+o is null
+object
+object id=
+object0
+objectDeathData
+objectId
+objectTypeId
+objectTypeId=
+objectTypeIdToCancel
+objectTypeIdToRearmWith
+object_id
+object_removed
+object_selection_panel
+objective
+objectiveId
+objective_
+objective_active
+objective_collect_warning
+objective_complete
+objective_completed
+objective_completed_title
+objective_description
+objective_item
+objective_reward_claimed
+objective_title
+objectives
+objectivesButton
+occupiedBar
+occupy_off
+occupy_on
+off
+offerId
+offerTitleTextId
+offerToFreeBuilder
+offer_ends_in
+offset
+ogsm
+ok
+ok_button
+okay
+okay_exclamation
+on
+onBecomeVisibleAnim
+once_upon_a_time
+onlineStatus
+online_indicator_change
+only_white
+only_xxx
+op_Explicit
+op_Implicit
+open
+openBuildWindow
+openCityPlanner
+openCloseButton
+openLeaderboardsWindow
+openNewsWindow
+openObjectivesWidow
+openRaidWindow
+openSettingsWindow
+opened crime coast map
+operational
+option_alarms
+option_text
+optional
+optional 
+options
+optionsContents
+orderId
+order_
+order_0
+otherGameStateId
+otherPlayerName
+out
+out_of_bounds
+outgoingMatch_
+overcrowded_prison_
+overcrowded_prison_1
+overcrowded_prison_2
+overcrowded_prison_3
+overcrowded_prison_4
+overcrowded_prison_5
+overcrowded_prison_6
+overcrowded_prison_7
+overcrowded_prison_8
+overcrowded_prison_9
+overload_
+overrideResearchFacilitySpreadsheet
+overtime_
+overview_button
+owner is not a container
+owner is not a label
+owner is null
+ownerId
+p2p
+p2pChat
+p2pTabsToOpen
+package 
+page
+panel is null
+parameters
+parent
+parentType
+partiesThrown
+partiesThrownForOthers
+parties_thrown
+parties_thrown_for_others
+parts.Length < 2
+party
+partyCost
+partyDuration
+partyEndTime
+partyExtraHousingSpace
+party_being_thrown_for_you
+party_confirm
+party_enhance_12h
+party_enhance_1d
+party_enhance_1h
+party_enhance_2h
+party_enhance_365d
+party_enhance_4h
+party_enhance_5h
+party_tip
+party_you_need_more_moolah
+pause
+pay
+pedestrian_ranoverbyvehicle
+percentage
+percentageDestroyed
+percentageFull is null
+percentageOfDefensiveStructuresDestroyed
+percentageOfTurnedInmatesToKill
+percentageOperational
+percentile
+percentiles
+performance
+permissions
+permissions is null
+photo_url
+picture
+pixel_squad_liked
+placement
+planner_drag_and_drop
+platform
+play
+player
+playerA
+playerAContainer
+playerB
+playerBContainer
+playerIconDescriptor
+playerId
+playerIdToReport
+playerIdToSnitchOn
+playerInfoButton
+playerKey
+playerName
+playerNameToReport
+playerStats
+playerStats_InfoLine
+playerStats_Separator
+playerSummaryList
+player_
+player_a_name
+player_b_name
+player_count
+player_demote
+player_demote_confirm
+player_demoted
+player_demoted_by
+player_id
+player_name
+player_name_available
+player_name_helps_unlock_units
+player_name_taken
+player_promote
+player_promote_confim
+player_promote_confim_max
+player_promoted
+player_promoted_by
+player_protected
+player_referrals
+player_reported_
+player_search
+player_short
+playericon_
+playerkey
+playername_
+playersArenaId
+playersHoodId
+please_wait
+poinsonRadius
+pointChangeRangeMax
+pointChangeRangeMin
+pointsIcon
+popUpBlankContents
+popUpCloser
+popUpContents
+popUpContentsWithTopBar
+popUpHeadingBg
+popUpHeadingBgDrawCall
+popUpLabel
+popUpMenu
+popUpMenuSpacer
+popUpWindow
+popUpWindow_MafiaWars
+popUpWindow_RaidEnded
+pop_up_button
+populate
+popup_background_contents
+popup_being_attacked
+popup_contents
+popup_contents_available_troops
+popup_contents_confirm
+popup_contents_confirm_two_options
+popup_contents_donate
+popup_contents_infolayout
+popup_contents_text_entry
+popup_frame
+popup_henchman_unlocked_troops
+popup_title
+portrait
+pos
+pos is not within bounds!
+pos__XT2
+pos__YT2
+position
+position=
+post_group_message
+post_p2p_message
+post_public_message
+power
+powerAuraScaleMultiplier
+powerAuraSpeedMultiplier
+powerIsAttack
+power_aura_level
+preNotificationTextId
+preNotificationsSent
+pre_req
+prefab
+prefabPath is invalid.
+prefab_template
+preserveAspect
+preserveSpriteDimensions
+press_button_to_retreat
+previewImageUrl
+previousButton
+previousTimeHeld
+price
+price_in_editor
+pricepoint_id
+pricetext
+prison
+prison_front
+prison_level_n_required
+prisoners
+prisoners_freed
+prisoners_turned
+privacy
+prizeCurrencyIcon
+prize_
+prize_available
+prizes
+prizes.Count < 3!!
+product
+productDataMap
+productId
+productType
+productionPerHour
+productionTabButton
+production_bonus
+production_per_hour
+production_total
+progressBarDrawCall
+progressBar_inner
+progressStats
+progressText
+proj_origin
+projectileEffect
+projectileTypeId
+projectile_cannonshot
+projectile_clusterbomb
+projectile_grenade
+projectile_machinegunshot
+projectile_mortar
+projectile_shot
+projectile_toucanshot
+promotionalTextId
+property
+protectedId
+protectedName
+protectionButton
+protectionTimePartA
+protectionTimePartB
+protection_12h
+protection_14d
+protection_1d
+protection_1h
+protection_3d
+protection_3h
+protection_6h
+protection_7d
+protection_buy_confirm
+protection_description
+protection_menu
+protection_removal_confirm
+protectorHenchmanId
+protectorId
+protectorName
+protector_henchman_changed
+protector_name
+proto
+protoSource
+protobuf-net
+proxy
+public
+publicRSA
+public_chat
+public_chat_lastread_message
+publish_actions
+publish_pages
+purchaseButton
+purchaseData
+purchaseDate
+purchaseIAP
+purchaseIAP:
+purchaseProtection
+purchaseReceipt
+purchaseResponse
+purchase_item
+purchase_item - invalid item to purchase. ItemTypeId=
+purchase_item_direct
+purchase_n_card_type
+purchase_shield
+purchaseitem
+put
+quality_high
+quality_low
+quality_medium
+quality_settings
+quantity
+quantityText
+quantity_max
+quantity_min
+queueGrid
+queueGridContainer
+quickNotificationPopUp
+r
+rage_level
+raidButton
+raidCost
+raid_results
+raids
+raidsDone
+raids_defended
+raids_won
+random_next_frame
+rangeStart >= rangeEnd
+ranged_attack_unit_required
+rank
+ranking
+rarity
+rarity_common
+rarity_epic
+rarity_legendary
+rarity_notorious
+rarity_rare
+rarity_superrare
+rate_us
+rate_us_go
+rate_us_improve
+rate_us_send_us_feedback
+rate_us_text
+rate_us_title
+rays
+rc4Secret
+reached dead end
+reachedMansionLevel
+reader
+rearm
+rearmSilo
+rearm_all
+rearm_now
+rearm_silo
+rearmingEndsAt
+receiptId
+receipts
+receive_item
+receive_troops
+receivedItems
+receivedTroops
+received_crystals
+received_item
+received_items
+recentMatchInfo
+recentMatchInfo_Spacer
+recentmatch_
+recommend_select_5_stars
+recommend_select_few_stars
+recv=
+ref
+referral
+referral reward
+referralActivationGold
+referralCodeUsed
+referralId
+referralLastClaimedMansionLevel
+referral_code
+referral_email
+referral_email_subject
+referral_tip
+referrals
+referrals_header
+referrals_summary
+refresh_button
+regenerateButton_
+regenerate_hero
+register
+register_atlas_
+reinforcementsData
+rejected
+release
+reload
+removable
+remove
+removeAll
+remove_all
+remove_all_confirm
+removedRemovable
+removedRemovable:
+repeated
+repeated 
+replay
+replay share
+replayAvailable
+replayId
+replay_button
+replay_shared_global_chat
+replay_shared_with_group
+replay_speed_button
+report
+reportInP2PChat
+report_confirm
+reputation
+request
+requestAchievements
+requestAchievementsForPlayer
+requestAlreadyPosted
+requestBatchFriends
+requestData
+requestId
+requestIndex
+requestLeaderboards
+requestLocalPlayer
+requestLocalPlayerFriends
+requestLocalPlayerScore
+requestPercentileRanks
+requestPercentileRanksForPlayer
+requestPosted
+requestScoreForPlayer
+requestScores
+requestStatusText
+requestText
+requestTroops
+request_id
+request_link_code
+request_messages
+request_to_join_sent
+request_troops
+request_troops_confirmnow
+request_troops_default_text
+request_troops_dispatch_select
+request_troops_dispatch_troops
+request_troops_needtobelong
+request_troops_next
+request_troops_nobreak
+request_troops_receive
+request_troops_text
+request_troops_train
+required
+requiredPower
+required_power
+requiresBuilderToBuild
+requires_high_command_upgrade
+research
+researchStarted
+researchTech
+researchTime
+research_already_in_progress
+research_complete
+research_in_progress
+research_sped_up_by
+research_start
+researching
+researching_object_level_n
+reserves_full
+reset
+resetObjectives
+resetStats
+reset_game_state
+resizer
+resourceMeters
+resourceMeters_attacker
+resourcePath
+response
+restoreAllStructs
+results_
+results_count
+results_count_end
+retreat
+retreatShootMaxTime
+retrieve
+retrieve_city_layout
+retrieve_for_editing
+retrieve_for_editing_uselayouteditorindex
+retrieve_last_replay
+retrieve_replay
+retry
+revengeButton
+revengeTaken
+revenge_already_taken
+revenge_button
+revenge_in_progress_player_name
+revenge_key
+revengesWon
+revenges_won
+reward
+rewardContainer
+reward_amount
+reward_icon
+reward_mension_item
+rewards_button
+rewards_buyusemultiple
+rewards_contents
+rewards_screen
+rewards_screen_wait_for_multiple
+rewards_shine_
+right
+right top
+right_grid
+right_panel
+right_slow
+rioteer_icon@unitConceptsAtlas
+road
+road_CE_L_1
+road_CN_L_1
+road_CS_L_1
+road_CW_L_1
+road_J_L_1
+road_KE_L_1
+road_KN_L_1
+road_KS_L_1
+road_KW_L_1
+road_L_1
+road_NSN_L_1
+road_NSS_L_1
+road_TNE_L_1
+road_TNW_L_1
+road_TSE_L_1
+road_TSW_L_1
+road_WEN_L_1
+road_WES_L_1
+road_WE_L_1
+road_block
+roads
+roll
+rotate
+round
+roundLength
+rounds
+rows
+rubbish
+runes
+runesToGive
+rush finished units
+rush_bail_confirm
+s
+s.Length=
+s71278
+safe_locked
+safe_open
+sale_price
+save_button
+scope
+score
+scoreString
+score\" argument should not be null
+score_
+scores
+scout
+scrapyard
+screenVisited
+screen_overlay
+scrollSensitive
+scrollpane
+se
+search
+searchInputPage
+searchTerm
+searching
+season_ends_in
+select_all
+select_multiple
+select_tem_to_be_used
+select_unit_type_to_deploy
+selected
+selected single player mission
+selected unit type
+selectedRoad
+selected_item_background
+selected_label
+selectionArrows
+selection_arrow_ne
+selection_arrow_se
+selection_buildmore_arrow_ne
+selection_buildmore_arrow_se
+self_0
+sell_all_button
+sell_all_items
+sell_button
+sell_item
+send
+sendButton
+send_item
+send_item_confirm
+send_units_to_protect
+sender
+senderGroupStatus
+senderId
+senderName
+sentItems
+sent_item
+sent_items
+serializedBytes
+serverAddress=
+serverDateTime
+server_maintenance_d
+server_maintenance_t
+server_status
+sessionId
+sessionLength (seconds)
+set
+setMaxSize
+setPlayerName
+setPopUpLocation
+setPopupEnabled
+setRegisterOnServerLifespan
+setRegisteredOnServer
+setScore
+setSpecified
+setText
+setValue
+set_player_icon
+settings
+settingsButton
+sfixed32
+sfixed64
+shakeCameraEffect
+shareButtonContents
+share_again_in
+share_desc_
+share_desc_referral
+share_imglink_
+share_imglink_singleplayer
+share_link_
+share_link_singleplayer
+share_succeeded_facebook
+share_title_
+share_title_referral
+shared_a_replay_1
+sharereplay_button
+shelteredAttackRange
+shieldCooldownExpiries
+shieldExpiresOn
+shieldExpiry
+shieldId
+shieldLeft
+shield_text
+shift
+shop
+shop complete!
+shot
+shouldIncrementVersion = true;
+show
+showAchievementsOverlay
+showGameCircleOverlay
+showLeaderboardsOverlay
+showObjectivesMenu
+showSignInPage
+showToast
+show_equipped_items
+showdown
+showdownDefensesWon
+showdownRaid
+showdownRaidsWon
+showdownRevengesWon
+showdownTourneyHighestArenaVictories
+showdownTourneyVictories
+showdown_defenses_won
+showdown_displayallarenas
+showdown_do_next_raid
+showdown_enabled
+showdown_highest_arena_victories
+showdown_join
+showdown_join_for
+showdown_join_now
+showdown_minpower
+showdown_player_protected
+showdown_raids_won
+showdown_required_power
+showdown_revenges_won
+showdown_rules
+showdown_shield
+showdown_tourney_victories
+showdown_view_leaderboard_before_joining
+showdown_wait_next_season
+showdown_you_have_joined
+shownInstantAttack_
+shownInstantAttack_0
+shutdown
+signature
+silver
+silver_key_available
+simulatedOnServer
+single
+singlePlayerAttackButton
+singlePlayerLoss
+singlePlayerMap
+singlePlayerMission
+singlePlayerPanePosition
+singlePlayerVictory
+single_player
+single_player_screen_landscape
+single_player_screen_portrait
+single_player_victory
+single_structure
+singleplayer
+sint32
+sint64
+size
+skip
+skipIntroButton
+skipIntroConfirm
+skip_intro_confirm
+sku
+skulls
+skus
+slot
+smallCleanText
+smallIconUrl
+smallPadding
+smoke
+sniper
+sniper_icon@unitConceptsAtlas
+sniper_muzzle_1
+sniper_unitSelectionBar
+snitch
+snitchCantLeave
+snitchComissionPercent
+snitchProbabilityOfBeingCaught
+snitchTextDrawCall
+snitchTimeIntervalHours
+snitch_a_snitched_on_b
+snitch_already_snitched_on_player
+snitch_cant_leave
+snitch_got_away
+snitch_got_caught
+snitch_lesson_being_taught
+snitch_not_to_yourself
+snitch_on_player
+snitch_on_player_confirm
+snitch_someone_did_on
+snitch_teach_a_lesson
+snitch_wait_hours
+snitch_you_already_taught_a_lesson_to
+snitch_you_cant_at_this_point
+snitch_you_did
+snitch_you_got_snitched
+snitch_you_got_snitched_know_who
+snitchedOn
+socialSharingSucceeded
+socialSharing_MinInterval
+socialSharing_ResourceBonus
+social_sharing_bonus
+softBlocked
+soldier
+soldier_TrainButton
+sorry_an_error_happened
+sorry_couldnt_cloak
+sorry_couldnt_start_party
+sortChildren
+sortOrder
+sortOrder.Contains(\"
+source
+sourceGameStateId
+sourceIndex
+spacer
+spacing
+special
+specialCurrencyCost = 0
+specialOfferCard
+specialOfferContents
+specialOfferCurrency
+specialOfferDelivery
+specialOfferSpacer
+special_ability
+special_offer_button
+special_offer_contents_received
+speed
+speed_up
+speed_up_button
+speedupTraining
+speedupUpgrade
+speedup_10m
+speedup_12h
+speedup_15m
+speedup_1d
+speedup_1h
+speedup_2d
+speedup_2h
+speedup_30m
+speedup_4d
+speedup_5m
+speedup_6h
+speedup_training_video_ad
+spendA
+spend_currency_question
+spent gold to rush finish cannon
+splashDrawCall
+splashScreen
+split_bottom
+spotShadowSizePixels
+spotShadows
+spreadsheetVersion
+spreadsheet_android
+spreadsheet_crc_android
+spreadsheet_crc_ios
+spreadsheet_ios
+sprite
+spriteAnim
+spriteAnimTemplate
+spriteDescriptor is invalid
+spriteId
+spriteId is invalid
+spriteId=
+spriteName
+spritePrefix
+spriteTemplate
+sprite_drawcall
+sprites
+sps_city
+sps_close_button
+sps_level_info
+sps_map
+sps_raid_button
+square_button_inner
+square_button_shadow
+star
+star_
+star_4
+star_colour
+star_flat
+startDate
+startSinglePlayerLevel
+start_key_timers
+start_party
+started building law office
+started first single player mission
+startingGameStateId
+state
+stats
+status
+status_coleader
+status_invalid
+status_leader
+status_member
+status_senior
+step1
+step10
+step11
+step12
+step13
+step14
+step15
+step16
+step17
+step18
+step19
+step2
+step20
+step21
+step22
+step23
+step24
+step25
+step26
+step3
+step4
+step5
+step6
+step7
+step8
+step9
+step??
+steph_1
+steph_2
+steph_3
+steph_4
+stone_image
+stone_image_drawcall
+stone_sd
+stop
+storage
+storageData_
+storageData_LifeForce
+storageData_MetalOre
+storageLifeForce
+storageMetalOre
+storageSilver
+storages_full
+store
+stress_test_device_
+string
+structureDestroyedEffect
+structureName
+structureOptionsPanel
+structure_already_upgrading
+structure_connect_operational
+structure_movement_controls
+structure_take_hit
+structuresCloaked
+structuresCloakedForOthers
+structures_cloaked
+structures_cloaked_for_others
+style
+submitScore
+success
+success_gold
+successfully_joined_alliance
+successfully_left_alliance
+suggested_mafia_list_item
+support_email_address
+support_email_subject
+suppressOnlineIndicator
+surroundWithConnections
+sw
+swap_towns
+switch_to_full_screen
+switch_to_windowed
+sylvester
+sylvesterEnabled
+sylvester_icon@unitConceptsAtlas
+sylvester_volley
+sylvester_volley_level
+symbol
+synchronize
+systemTextType
+t0=
+t1=
+tabButton
+tab_disabled
+tab_disabled_sprite
+tab_enabled
+tab_enabled_sprite
+tab_separator
+tag
+tagExclamation
+tagExclamation_NewsItems
+tag_exclamation
+talk_bubble_left
+talk_bubble_right
+tapToContinueText
+tap_and_hold_to_bail
+target is Vector2.zero
+targetArena
+targetData
+targetGameStateId
+targetId
+targetMatches
+targetName
+targetRangeStart >= targetRangeEnd
+targetWorld
+target_object_effect
+target_url
+tat_colors_0
+tattoo
+techLevels
+test.bin
+testData
+test_currency
+test_news_item
+text
+text is null!
+text spreadsheet not set
+textAlign
+textButton
+textCurrencyButton
+textDrawCall
+textDrawcall
+textId
+textInput
+textInputWithBG
+textToSend
+text_bottom
+text_center
+text_container
+text_gold_amount
+text_has_vulgarities
+text_id
+text_new_price
+text_new_price_only
+text_old_price
+text_price
+text_title
+text_topleft
+text_topright
+text_whoosh_big
+text_whoosh_small
+texture is null!
+the_rules
+thief
+thief_icon
+thiefillustration
+throw_party
+throw_party_everywhere
+throw_remote_party
+thrownParties
+thrownPartiesForOthers
+thumbnailDrawCall
+tick
+tiledsprite
+time
+timeJoinedMafia
+timeLastUpdated
+timeLeftToUpgrade=
+timeStamp
+timeToBuildOrUpgrade
+timeToRearm
+timeToTrain
+timeToUpgrade
+timeUpgrading=
+time_ago
+time_day
+time_days
+time_days_abbreviated
+time_held
+time_hour
+time_hours
+time_hours_abbreviated
+time_left
+time_minute
+time_minutes
+time_minutes_abbreviated
+time_seconds
+time_server_url
+timecheck
+timer
+timerText
+times_snitched
+times_snitched_on
+tip
+tip_henchmen_sharing
+title
+titleBarText
+titleTextId
+to
+toId
+toTime
+togglebutton
+token
+tokenString
+top
+top center
+top left
+top right
+topBar
+topBarContents
+topBarGrid
+topLeft
+topPlayerStatue
+topRight
+topText
+top_mafias
+top_player_statue_short
+top_players
+top_players_1
+top_right_text
+top_right_text_drawcall
+top_text
+top_up_currency_reserves
+top_up_currency_reserves_amount
+topplayerlist_item
+totalCurrency0
+totalCurrency1
+totalCurrencyASpend
+totalPoints
+totalRaids
+totalText
+totalTroopsDonated
+totalTroopsRequested
+totalTrophies
+totalTypes
+totalVideoAdsSeenToday
+total_blue_spent
+total_cash_spent
+total_gold_collected
+total_receipts_processed
+toucan
+toucanHitMultiplierDestroyedBuildingCount
+toucanHitMultiplierResourceExploitDefense
+toucanHitMultiplierTweak
+toucan_machine_gun_fire
+tournament_advert
+tournament_description
+tournament_ends_in
+tourney
+tourneyData
+tourney_header
+tourney_switch_hoods
+tourney_top_players
+townBattleAttack
+town_health
+train
+trainButton
+trainUnit
+train_unit
+train_unit_types
+train_units
+train_vehicles
+trained units
+trainingCamp
+trainingQueue
+trainingQueue (size=
+trainingQueueControls
+trainingQueueInner
+trainingQueueItem
+training_camp_upgrade_needed
+training_capacity
+training_complete
+training_queue_capacity_exceeded
+transitionScreen
+transparent_pixel
+trapIndicator
+trap_antiair
+trap_electrictower
+trap_jaws
+trap_mine
+trap_mineantivehicle
+traps
+troopRequestData
+troopRequestId
+troop_transfer_container
+trooprequest_id
+troopsDonated
+troopsReceived
+trophies
+true
+turnInMatesAgainstDefender
+tutorial
+tutorial 4 text
+tutorialArrow1Place
+tutorialArrowPlace
+tutorialArrow_Down
+tutorialArrow_Down_Yellow
+tutorialArrow_Left
+tutorialArrow_Right
+tutorialArrow_Up
+tutorial_0
+tutorial_1
+tutorial_10
+tutorial_11
+tutorial_13
+tutorial_14
+tutorial_15
+tutorial_16
+tutorial_2
+tutorial_3
+tutorial_4
+tutorial_5
+tutorial_6
+tutorial_7
+tutorial_8
+tutorial_9
+tutorial_buildingco_0
+tutorial_cardsystem_0
+tutorial_cardsystem_1
+tutorial_hand
+tutorial_hand_0
+tutorial_henchmen_0
+tutorial_henchmen_1
+tutorial_henchmen_2
+tutorial_henchmen_3
+tutorial_henchmen_4
+tutorial_mansion_0
+tutorial_mansion_1
+tutorial_mansion_2
+tutorial_mansion_3
+tutorial_shop_1
+tutorial_shop_1_1
+tv_replay_mode
+twitter_followed
+type
+type_an_alliance_name
+type_params
+ui
+ui0DrawCall
+uiInteraction
+uiRoot.Update()
+ui_button_cancel
+ui_button_click
+ui_fill_up_storages
+ui_movebuilding_1x1
+ui_movebuilding_2x2
+ui_movebuilding_3x3
+ui_movebuilding_4x4
+ui_movebuilding_5x5
+ui_movebuilding_6x6
+ui_movebuilding_7x7
+ui_movebuilding_small
+ui_new_objective
+ui_not_enough_gold
+ui_not_enough_storage_space_currency
+ui_objective_claimed
+ui_rearm_missile_silo
+ui_rearm_missile_silo_now
+ui_removable_givespecialcurrency
+ui_removable_removed
+ui_research_start
+ui_spend_gold
+ui_structure_build
+ui_structure_cannot_place
+ui_structure_move_large
+ui_structure_move_medium
+ui_structure_move_small
+ui_structure_selected
+ui_structure_selected_
+ui_structure_selected_trap_mineantivehicle
+ui_structure_upgrade
+ui_structure_upgrade_complete
+ui_training_cancelled
+ui_trap_rearm
+ui_tutorial_skip_text
+ui_unit_cannot_deploy
+ui_unit_deploy
+ui_unit_donate
+ui_window_appear
+ui_xml
+uint32
+uint64
+unable to find road sprite: 
+unable to instantiate chopper?:
+unable to setup parent controls
+unableToReachServer
+unable_to_establish_secure_connection
+unable_to_locate_upgrade_data
+unable_to_parse
+unable_to_reach_server
+unavailable
+unavailableSkus
+unblock_player_confirm
+unequip
+unequipFortifies
+unequip_item
+unit
+unitConcepts1Atlas
+unitConceptsAtlas
+unitDescriptor
+unitDescriptor is null!
+unitDescriptorList
+unitDescriptorListItem
+unitDescriptorListSize
+unitOverheadDrawcall_UI1Atlas
+unitQuantity.Peek() is null
+unitStorage is null
+unit_deployment_ring
+unit_spotShadow
+units4SwooshDrawCall
+units6SwooshDrawCall
+unitsStored
+units_ready
+unknown
+unlimitedBuildings
+unlimitedBuildingsChange
+unlimitedUnits
+unlimitedUnitsChange
+unlockAllHenchmen
+unlockAllHenchmenChange
+unlockAllUnits
+unlockAllUnitsChange
+unlock_
+unlock_on_level
+unlock_on_level_destruction
+unlocks_at_mansion_level_n
+unprotect
+unprotect_player_confirm
+unprotected_player
+unregister
+up
+updateAchievementProgress
+updateChildren
+updateTransform
+update_push_notification_token
+upgradableItem_
+upgradableItems
+upgrade
+upgrade mansion section started
+upgradeAll
+upgradeAll*
+upgradeAudioId
+upgradeButton
+upgradeInfoText
+upgradeItemButton
+upgradeItemIndex
+upgradeStartTime
+upgradeWalls
+upgrade_all
+upgrade_all_confirm
+upgrade_complete
+upgrade_data_not_located
+upgrade_panel_bottom
+upgrade_sped_up_by
+upgrade_structure_item
+upgrade_structures
+upgrade_tech
+upgrade_time
+upgrade_unit
+upgrading
+upgradingItemIndex
+upper
+upperHud
+upperText
+uppergrid
+url
+url_amazon
+url_android
+url_bluestacks
+url_cafebazaar
+url_maysalward
+url_recommend
+url_recommend_amazon
+url_recommend_android
+url_recommend_bluestacks
+use
+useAllButton
+useBullyCard
+useGrassCarpet
+useScaffolding
+useSpotShadow
+useWholeTexture
+use_all
+use_all_items
+use_button
+use_crew_cards
+use_item
+use_party_ticket
+use_referral_code
+use_speedup
+use_speedup_on_research
+use_speedup_on_training
+used gold for the first time
+userData
+userID
+userId
+userIndex
+userMessage
+userName
+userNameBox
+user_id
+user_likes
+user_offline
+v
+v2.4
+validatedIap
+validating_code
+value
+valueToSum
+value_
+values
+van
+vaultCapacity_BadBlue
+vaultCapacity_Cash
+vaultCapacity_Gold
+vault_
+vault_capacity_bad_blue
+vault_capacity_cash
+vault_capacity_gold
+vault_contents
+vault_stored_bad_blue
+vault_stored_cash
+vault_stored_gold
+vehicle_take_hit
+version
+verticalScrollPane
+verticalSpacing
+verySmallText
+victory
+videoAd
+videoAds_AllowInBailOutWindow
+videoAds_AllowInShop
+videoAds_GoldReward
+videoAds_PerDay
+videoAds_daysToStartDisplaying
+videoAds_showToPayingPlayers
+videoAds_speedUpTimePerView
+view
+view_alliance
+view_raid
+vignette_effect
+visible
+visitTown
+w
+wait
+wait to start building building co
+wait to start building cannon
+wait_while_matches_are_created
+wall
+wall_L_
+wall_NE_L_
+wall_NWE_L_
+wall_NW_L_
+war
+warId
+warehouse
+warning
+watchBackUnitsToSendMultiplier
+watch_back
+watch_back_already
+watch_back_confirm
+watch_back_error_already_protected
+watch_back_no_longer
+watch_back_no_troops_to_send_to
+watch_back_reinforcements
+watch_back_sending_units_to
+watch_back_stop_protecting
+watch_back_stop_protecting_confirm
+watch_back_success
+watch_back_tip
+watch_ones_back
+watch_replay
+watch_their_back
+watch_video_ad
+water_new
+weapon
+weaponSecondaryTextId
+weaponTextId
+weapon_secondary
+welcome
+when
+whenSnitched
+whoSnitched
+whole_texture_sprite
+width
+widthDeduction
+wilderStatue
+wilder_statue
+will
+workshop
+world is null!
+worldDrawCall
+worldId
+worldId_Visit
+wrecker
+writer
+www_image
+x
+x 
+x #50FF50FF
+x #FF0000FF
+x must be larger than rangeStart!
+x4
+xStep or yStep too small!
+xfbml
+y
+yes
+you
+you_are_being_attacked
+you_are_not_high_enough_hierarchy
+you_button
+you_dont_belong_to_an_alliance_yet
+you_have_blocked_this_player
+you_have_forged
+you_have_hired_henchman_name
+you_have_received_superior_crew
+you_havent_referred
+you_need_an_army
+you_need_crystals_to_finish_research_now
+you_need_currency_to_attack
+you_need_level_10_mansion
+you_need_lifeforce_to_upgrade
+you_need_n_additional_crystals_get_more
+you_need_silver_to_upgrade
+you_need_soft_currency_offer
+your_army_is_small_confirm_attack
+your_gang
+your_league_button
+your_mafia_button
+your_name_is_now
+yyyyMMdd
+zOffset
+zOffsetTweak
+{
+{0} ({1})\n
+{0} error: {1}
+{0} warning: {1}
+{0}.{1}:{2}:{3}
+{0}: {1}
+{0}:{1}:{2}
+{0}\"; filename=\"{1}\"\r\nContent-Type: {2}\r\n\r\n
+{SecondsSinceStarted().ToString()}s {GetDeviceIdentifier()} 
+{X:
+{\"cancelled\":true}
+{number:n0}
+{service} error: {message}
+{service} warning: {message}
+{service}: {message}
+{}
+{}[],:\"
+}
