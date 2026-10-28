@@ -1,0 +1,45 @@
+============================================================
+#1  12:51:59
+POST /game.aspx?r=0.5025852&lb_cmd=get&deviceGuid=037533a9-73d2-44db-a3c6-db0d5338a39e&platform=Android&gameVersion=81
+>>> endereco: 192.168.100.6
+============================================================
+#2  12:51:59
+POST /game.aspx?r=0.8583213
+>>> sessao nova 29c5785ab4754b33a6d39801b89fa6db; enviei segredo RC4 + chave publica (cifrados)
+============================================================
+#3  12:51:59
+POST /game.aspx?r=0.9960462
+>>> segredo RC4 do jogo recebido; conexao segura estabelecida
+============================================================
+#4  12:51:59
+POST /game.aspx?r=0.5184475
+>>> COMANDO #0: new_game
+action (str) = 'new_game'
+deviceId (str) = '3f70a04af88f0139799f0489215c057e_c2f00b2b'
+deviceModel (str) = 'samsung SM-G988N'
+IDFA (str) = '4477690e-6c52-418c-9d63-a8a53450bae6'
+platform (str) = 'Android'
+playerKey (str) = ''
+worldId (int) = -1
+============================================================
+#5  12:51:59
+POST /game.aspx?r=0.8694237
+>>> COMANDO #1: server_status
+action (str) = 'server_status'
+playerKey (str) = ''
+worldId (int) = -1
+============================================================
+#6  12:51:59
+POST /game.aspx?r=0.9990023
+>>> COMANDO #2: timecheck
+action (str) = 'timecheck'
+deviceId (str) = '3f70a04af88f0139799f0489215c057e_c2f00b2b'
+deviceModel (str) = 'samsung SM-G988N'
+deviceLanguage (str) = 'Portuguese'
+IDFA (str) = '4477690e-6c52-418c-9d63-a8a53450bae6'
+platform (str) = 'Android'
+playerKey (str) = ''
+bundleVersion (int) = 330
+worldId (int) = -1
+bundleId (int) = 2
+localTime (long) = 639287886672406700
