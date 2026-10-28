@@ -1,0 +1,3 @@
+action (str) = 'server_status'
+playerKey (str) = ''
+worldId (int) = -1

@@ -1,0 +1,7 @@
+action (str) = 'new_game'
+deviceId (str) = '3f70a04af88f0139799f0489215c057e_c2f00b2b'
+deviceModel (str) = 'samsung SM-G988N'
+IDFA (str) = '4477690e-6c52-418c-9d63-a8a53450bae6'
+platform (str) = 'Android'
+playerKey (str) = ''
+worldId (int) = -1
