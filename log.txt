@@ -1,25 +1,25 @@
 ============================================================
-#1  13:14:32
-POST /game.aspx?r=0.4518227&lb_cmd=get&deviceGuid=037533a9-73d2-44db-a3c6-db0d5338a39e&platform=Android&gameVersion=81
+#71  13:22:25
+POST /game.aspx?r=0.3102609&lb_cmd=get&deviceGuid=037533a9-73d2-44db-a3c6-db0d5338a39e&platform=Android&gameVersion=81
 >>> endereco: 192.168.100.6
 ============================================================
-#2  13:14:32
-POST /game.aspx?r=0.1101765
->>> sessao nova df1604ff66b0423d8c35eec49d3e8d06; enviei segredo RC4 + chave publica (cifrados)
+#72  13:22:26
+POST /game.aspx?r=0.4410805
+>>> sessao nova 2a8eccf3a62e452886bce72b8c3236ce; enviei segredo RC4 + chave publica (cifrados)
 ============================================================
-#3  13:14:32
-POST /game.aspx?r=0.571474
+#73  13:22:26
+POST /game.aspx?r=0.1635047
 >>> segredo RC4 do jogo recebido; conexao segura estabelecida
 ============================================================
-#4  13:14:32
-POST /game.aspx?r=0.43036
+#74  13:22:26
+POST /game.aspx?r=0.05234493
 >>> COMANDO #0: server_status
 action (str) = 'server_status'
 playerKey (str) = 'local-player-key'
 worldId (int) = 1
 ============================================================
-#5  13:14:32
-POST /game.aspx?r=0.4871351
+#75  13:22:26
+POST /game.aspx?r=0.4416564
 >>> COMANDO #1: timecheck
 action (str) = 'timecheck'
 deviceId (str) = '3f70a04af88f0139799f0489215c057e_c2f00b2b'
@@ -31,521 +31,130 @@ playerKey (str) = 'local-player-key'
 bundleVersion (int) = 330
 bundleId (int) = 2
 worldId (int) = 1
-localTime (long) = 639287900198858950
+localTime (long) = 639287905447730920
 ============================================================
-#6  13:14:33
-POST /game.aspx?r=0.2931222
+#76  13:22:28
+POST /game.aspx?r=0.3199801
 >>> COMANDO #2: retrieve_for_editing
 action (str) = 'retrieve_for_editing'
 playerKey (str) = 'local-player-key'
 worldId (int) = 1
 ============================================================
-#7  13:14:33
-POST /game.aspx?r=0.183346
+#77  13:22:28
+POST /game.aspx?r=0.4834635
 >>> COMANDO #3: request_messages
 action (str) = 'request_messages'
 playerKey (str) = 'local-player-key'
-lastSentId (int) = 700169093
+lastSentId (int) = 1756347221
 worldId (int) = 1
 fromTime (long) = 0
 ============================================================
-#8  13:14:33
-POST /game.aspx?r=0.01440466
+#78  13:22:28
+POST /game.aspx?r=0.1567283
 >>> COMANDO #4: get_public_messages
 action (str) = 'get_public_messages'
 playerKey (str) = 'local-player-key'
 worldId (int) = 1
 lastId (long) = -1
 ============================================================
-#9  13:14:54
-POST /game.aspx?r=0.4152264
+#79  13:22:51
+POST /game.aspx?r=0.6093108
 >>> COMANDO #5: get_public_messages
 action (str) = 'get_public_messages'
 playerKey (str) = 'local-player-key'
 worldId (int) = 1
 lastId (long) = -1
 ============================================================
-#10  13:15:05
-POST /game.aspx?r=0.1262516
->>> COMANDO #6: mafia_wars_overview
-action (str) = 'mafia_wars_overview'
+#80  13:22:56
+POST /game.aspx?r=0.02008009
+>>> COMANDO #6: get_public_messages
+action (str) = 'get_public_messages'
 playerKey (str) = 'local-player-key'
-warId (int) = -1
+worldId (int) = 1
+lastId (long) = -1
+============================================================
+#81  13:22:57
+POST /game.aspx?r=0.9325258
+>>> COMANDO #7: get_public_messages
+action (str) = 'get_public_messages'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+lastId (long) = -1
+============================================================
+#82  13:22:58
+POST /game.aspx?r=0.6012712
+>>> COMANDO #8: get_public_messages
+action (str) = 'get_public_messages'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+lastId (long) = -1
+============================================================
+#83  13:22:59
+POST /game.aspx?r=0.2072903
+>>> COMANDO #9: get_public_messages
+action (str) = 'get_public_messages'
+playerKey (str) = 'local-player-key'
+worldId (int) = 1
+lastId (long) = -1
+============================================================
+#84  13:22:59
+POST /game.aspx?r=0.6905293
+>>> COMANDO #10: top_players_1
+action (str) = 'top_players_1'
+playerKey (str) = 'local-player-key'
 worldId (int) = 1
 ============================================================
-#11  13:15:07
-POST /game.aspx?r=0.7738278
->>> COMANDO #7: mafia_wars_yourmafia
-action (str) = 'mafia_wars_yourmafia'
-playerKey (str) = 'local-player-key'
-warId (int) = -1
-worldId (int) = 1
-============================================================
-#12  13:15:07
-POST /game.aspx?r=0.9115244
->>> COMANDO #8: mafia_wars_yourleague
-action (str) = 'mafia_wars_yourleague'
-playerKey (str) = 'local-player-key'
-warId (int) = -1
-worldId (int) = 1
-============================================================
-#13  13:15:08
-POST /game.aspx?r=0.6726485
->>> COMANDO #9: mafia_wars_yourraids
-action (str) = 'mafia_wars_yourraids'
-playerKey (str) = 'local-player-key'
-warId (int) = -1
-worldId (int) = 1
-============================================================
-#14  13:15:08
-POST /game.aspx?r=0.9021188
->>> COMANDO #10: mafia_wars_overview
-action (str) = 'mafia_wars_overview'
-playerKey (str) = 'local-player-key'
-warId (int) = -1
-worldId (int) = 1
-============================================================
-#15  13:15:14
-POST /game.aspx?r=0.03656996
+#85  13:23:00
+POST /game.aspx?r=0.9003704
 >>> COMANDO #11: get_public_messages
 action (str) = 'get_public_messages'
 playerKey (str) = 'local-player-key'
 worldId (int) = 1
 lastId (long) = -1
 ============================================================
-#16  13:15:14
-POST /game.aspx?r=0.05595911
->>> COMANDO #12: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#17  13:15:14
-POST /game.aspx?r=0.8552011
->>> COMANDO #13: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#18  13:15:14
-POST /game.aspx?r=0.9627762
->>> COMANDO #14: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#19  13:15:14
-POST /game.aspx?r=0.7616432
->>> COMANDO #15: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#20  13:15:14
-POST /game.aspx?r=0.5847802
->>> COMANDO #16: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#21  13:15:14
-POST /game.aspx?r=0.7122163
->>> COMANDO #17: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#22  13:15:14
-POST /game.aspx?r=0.1796826
->>> COMANDO #18: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#23  13:15:14
-POST /game.aspx?r=0.8922489
->>> COMANDO #19: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#24  13:15:14
-POST /game.aspx?r=0.4834741
->>> COMANDO #20: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#25  13:15:14
-POST /game.aspx?r=0.4287772
->>> COMANDO #21: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#26  13:15:14
-POST /game.aspx?r=0.9442117
->>> COMANDO #22: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#27  13:15:14
-POST /game.aspx?r=0.5786088
->>> COMANDO #23: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#28  13:15:14
-POST /game.aspx?r=0.2977366
->>> COMANDO #24: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#29  13:15:14
-POST /game.aspx?r=0.0319326
->>> COMANDO #25: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#30  13:15:15
-POST /game.aspx?r=0.8873674
->>> COMANDO #26: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#31  13:15:15
-POST /game.aspx?r=0.8155303
->>> COMANDO #27: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#32  13:15:15
-POST /game.aspx?r=0.2575714
->>> COMANDO #28: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#33  13:15:15
-POST /game.aspx?r=0.09869255
->>> COMANDO #29: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#34  13:15:15
-POST /game.aspx?r=0.4059202
->>> COMANDO #30: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#35  13:15:15
-POST /game.aspx?r=0.5598993
->>> COMANDO #31: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#36  13:15:15
-POST /game.aspx?r=0.8358372
->>> COMANDO #32: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#37  13:15:15
-POST /game.aspx?r=0.7224645
->>> COMANDO #33: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#38  13:15:15
-POST /game.aspx?r=0.8557016
->>> COMANDO #34: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#39  13:15:15
-POST /game.aspx?r=0.903102
->>> COMANDO #35: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#40  13:15:15
-POST /game.aspx?r=0.6623226
->>> COMANDO #36: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#41  13:15:15
-POST /game.aspx?r=0.8441869
->>> COMANDO #37: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#42  13:15:15
-POST /game.aspx?r=0.3888105
->>> COMANDO #38: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#43  13:15:15
-POST /game.aspx?r=0.9269196
->>> COMANDO #39: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#44  13:15:15
-POST /game.aspx?r=0.9170715
->>> COMANDO #40: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#45  13:15:15
-POST /game.aspx?r=0.7850448
->>> COMANDO #41: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#46  13:15:15
-POST /game.aspx?r=0.2334817
->>> COMANDO #42: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#47  13:15:15
-POST /game.aspx?r=0.7849523
->>> COMANDO #43: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#48  13:15:15
-POST /game.aspx?r=0.7357395
->>> COMANDO #44: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#49  13:15:15
-POST /game.aspx?r=0.036008
->>> COMANDO #45: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#50  13:15:16
-POST /game.aspx?r=0.8805926
->>> COMANDO #46: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#51  13:15:16
-POST /game.aspx?r=0.5891522
->>> COMANDO #47: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#52  13:15:16
-POST /game.aspx?r=0.8463581
->>> COMANDO #48: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#53  13:15:16
-POST /game.aspx?r=0.2682422
->>> COMANDO #49: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#54  13:15:16
-POST /game.aspx?r=0.2556792
->>> COMANDO #50: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#55  13:15:16
-POST /game.aspx?r=0.2686047
->>> COMANDO #51: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#56  13:15:16
-POST /game.aspx?r=0.5256481
->>> COMANDO #52: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#57  13:15:16
-POST /game.aspx?r=0.098341
->>> COMANDO #53: retrieve_city_layout
-action (str) = 'retrieve_city_layout'
-playerKey (str) = 'local-player-key'
-index (int) = 0
-worldId (int) = 1
-============================================================
-#58  13:15:16
-POST /game.aspx?r=0.7545133
->>> COMANDO #54: retrieve_for_editing
-action (str) = 'retrieve_for_editing'
-playerKey (str) = 'local-player-key'
-worldId (int) = 1
-============================================================
-#59  13:15:34
-POST /game.aspx?r=0.5530173
->>> COMANDO #55: get_public_messages
+#86  13:23:01
+POST /game.aspx?r=0.2660743
+>>> COMANDO #12: get_public_messages
 action (str) = 'get_public_messages'
 playerKey (str) = 'local-player-key'
 worldId (int) = 1
 lastId (long) = -1
 ============================================================
-#60  13:15:41
-POST /game.aspx?r=0.724433
->>> COMANDO #56: mafia_wars_overview
-action (str) = 'mafia_wars_overview'
-playerKey (str) = 'local-player-key'
-warId (int) = -1
-worldId (int) = 1
-============================================================
-#61  13:15:47
-POST /game.aspx?r=0.09623994
->>> COMANDO #57: battle_log
-action (str) = 'battle_log'
-playerKey (str) = 'local-player-key'
-worldId (int) = 1
-============================================================
-#62  13:15:53
-POST /game.aspx?r=0.01546097
->>> COMANDO #58: get_public_messages
+#87  13:23:02
+POST /game.aspx?r=0.1458321
+>>> COMANDO #13: get_public_messages
 action (str) = 'get_public_messages'
 playerKey (str) = 'local-player-key'
 worldId (int) = 1
 lastId (long) = -1
 ============================================================
-#63  13:15:54
-POST /game.aspx?r=0.1644263
->>> COMANDO #59: get_public_messages
+#88  13:23:03
+POST /game.aspx?r=0.7618307
+>>> COMANDO #14: get_public_messages
 action (str) = 'get_public_messages'
 playerKey (str) = 'local-player-key'
 worldId (int) = 1
 lastId (long) = -1
 ============================================================
-#64  13:15:55
-POST /game.aspx?r=0.6085964
->>> COMANDO #60: get_public_messages
+#89  13:23:04
+POST /game.aspx?r=0.4339433
+>>> COMANDO #15: get_public_messages
 action (str) = 'get_public_messages'
 playerKey (str) = 'local-player-key'
 worldId (int) = 1
 lastId (long) = -1
 ============================================================
-#65  13:15:56
-POST /game.aspx?r=0.52391
->>> COMANDO #61: get_public_messages
+#90  13:23:05
+POST /game.aspx?r=0.1877419
+>>> COMANDO #16: get_public_messages
 action (str) = 'get_public_messages'
 playerKey (str) = 'local-player-key'
 worldId (int) = 1
 lastId (long) = -1
 ============================================================
-#66  13:15:57
-POST /game.aspx?r=0.466325
->>> COMANDO #62: get_public_messages
-action (str) = 'get_public_messages'
-playerKey (str) = 'local-player-key'
-worldId (int) = 1
-lastId (long) = -1
-============================================================
-#67  13:15:59
-POST /game.aspx?r=0.1178352
->>> COMANDO #63: get_public_messages
-action (str) = 'get_public_messages'
-playerKey (str) = 'local-player-key'
-worldId (int) = 1
-lastId (long) = -1
-============================================================
-#68  13:16:00
-POST /game.aspx?r=0.2336009
->>> COMANDO #64: get_public_messages
-action (str) = 'get_public_messages'
-playerKey (str) = 'local-player-key'
-worldId (int) = 1
-lastId (long) = -1
-============================================================
-#69  13:16:01
-POST /game.aspx?r=0.3754727
->>> COMANDO #65: get_public_messages
-action (str) = 'get_public_messages'
-playerKey (str) = 'local-player-key'
-worldId (int) = 1
-lastId (long) = -1
-============================================================
-#70  13:16:01
-POST /game.aspx?r=0.9051756
->>> COMANDO #66: user_offline
+#91  13:23:06
+POST /game.aspx?r=0.5891138
+>>> COMANDO #17: user_offline
 action (str) = 'user_offline'
 playerKey (str) = 'local-player-key'
 worldId (int) = 1
